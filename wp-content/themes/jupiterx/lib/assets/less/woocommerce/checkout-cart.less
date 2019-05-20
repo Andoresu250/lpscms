@@ -1,0 +1,105 @@
+.woocommerce-cart .woocommerce h2:not(.woocommerce-loop-product__title),
+.woocommerce-checkout .woocommerce h3 {
+    .jupiterx-typography('checkout-cart-heading');
+    .jupiterx-spacing('checkout-cart-heading');
+}
+
+.woocommerce-cart {
+    .cart-collaterals .cart_totals,
+    .cart-collaterals .cross-sells {
+        width: 100%;
+        float: none;
+
+        @media @md-up {
+            ul.products li {
+                width: 22.05%;
+
+                &:nth-child(2)  {
+                    margin-right: 3.8%;
+                }
+
+                &.first {
+                    clear: initial;
+                }
+            }
+        }
+
+    }
+
+    table.cart {
+        .quantity {
+            display: inline-block;
+        }
+
+        td.actions .input-text {
+            width: auto;
+        }
+
+        tr {
+            transition: background-color @transition-duration;
+
+            &:hover,&:focus {
+                background-color: @gray-100;
+            }
+        }
+
+        .product-remove a {
+            color: @secondary;
+            text-decoration: none;
+            opacity: .3;
+            transition: @transition-fade;
+
+            &:hover,&:focus {
+                opacity: 1;
+            }
+        }
+    }
+
+    .cart_totals {
+        .shop_table {
+            thead th {
+                border-width: 0;
+            }
+
+            td.actions .input-text {
+                width: 100px;
+            }
+        }
+    }
+
+    .wc-proceed-to-checkout a.checkout-button {
+        display: inline-block;
+        font-size: inherit;
+        padding: .375rem .75rem;
+        margin-bottom: 0;
+    }
+}
+
+.woocommerce .woocommerce-MyAccount-navigation {
+    border: 1px solid @gray-300;
+    border-radius: @border-radius;
+    overflow: hidden;
+
+    ul {
+        padding: 0;
+        margin: 0;
+
+        li {
+            list-style: none;
+            padding: .5rem 1rem;
+            border-bottom: 1px solid @gray-300;
+
+            &:last-child {
+                border-bottom: 0;
+            }
+
+            &.is-active {
+                background-color: @primary;
+
+                a {
+                    color: @white;
+                }
+            }
+        }
+    }
+}

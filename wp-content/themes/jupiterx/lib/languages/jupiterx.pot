@@ -1,0 +1,4901 @@
+# Copyright (C) 2019 Jupiter X
+# This file is distributed under the same license as the Jupiter X package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Jupiter X\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Artbees <info@artbees.net>\n"
+"Last-Translator: Artbees Team <info@artbees.net>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: full-width.php:3, lib/admin/customizer/blog-single/featured-image.php:17, lib/admin/customizer/footer/settings.php:97, lib/admin/customizer/footer/settings.php:220, lib/admin/customizer/header/settings.php:91, lib/admin/customizer/portfolio-single/featured-image.php:18, lib/admin/customizer/product-page/settings.php:137, lib/admin/customizer/site-settings/settings.php:21, lib/admin/customizer/title-bar/settings.php:17, lib/admin/customizer/title-bar/settings.php:86, lib/admin/custom-fields/post-types/options/main.php:67
+msgid "Full Width"
+msgstr ""
+
+#: lib/init.php:24, lib/init.php:97, lib/init.php:123
+msgid "Maintenance Mode"
+msgstr ""
+
+#: lib/init.php:26, lib/init.php:99, lib/init.php:125
+msgid "We're updating our website. Please check back soon."
+msgstr ""
+
+#: lib/init.php:29, lib/init.php:77, lib/init.php:128
+msgid "Resolve following issues to disable Maintenance Mode. (This part of message is visible to admin users.)"
+msgstr ""
+
+#. translators: 1: PHP version, 2: URL to JupiterX requirements page.
+#: lib/init.php:33
+msgid "Your server's PHP version (%1$s) is not supported. This version is old, insecure and slow. Please read <a href=\"%2$s\" target=\"_blank\">Checking Server Requirements</a> article to learn about WordPress, Jupiter X and other plugins' server requirements. You may contact your host provider/server administrator to increase the PHP version"
+msgstr ""
+
+#: lib/init.php:75
+msgid "Important plugins waiting to be updated!"
+msgstr ""
+
+#. translators: 1: Control panel link.
+#: lib/init.php:83
+msgid "Go to %s page. Install and activate the following plugins:"
+msgstr ""
+
+#: lib/init.php:84, lib/init.php:134
+msgid "Control Panel > Plugins"
+msgstr ""
+
+#. translators: 1: Control panel link.
+#: lib/init.php:133
+msgid "Go to %s and activate Jupiter X Pro plugin."
+msgstr ""
+
+#: lib/admin/assets.php:69
+msgid "Get a Jupiter X license"
+msgstr ""
+
+#: lib/admin/assets.php:73
+msgid "Help"
+msgstr ""
+
+#: lib/admin/assets.php:77
+msgid "Buy Jupiter X Pro"
+msgstr ""
+
+#: lib/admin/assets.php:85
+msgid "Activate PRO version"
+msgstr ""
+
+#: lib/admin/assets.php:87, lib/admin/assets.php:112, lib/admin/setup-wizard/views/api-activation.php:19
+msgid "Enter your API key"
+msgstr ""
+
+#: lib/admin/assets.php:93, lib/admin/assets.php:118, lib/admin/control-panel/views/layout/sidebar.php:8, lib/admin/control-panel/views/panes/home.php:93, lib/admin/control-panel/views/panes/home.php:111
+msgid "Activate Product"
+msgstr ""
+
+#: lib/admin/assets.php:101
+msgid "Install Jupiter X Pro plugin"
+msgstr ""
+
+#: lib/render/menu.php:25, lib/admin/customizer/blog-single/popup.php:16, lib/admin/customizer/blog-single/popup.php:96, lib/admin/customizer/blog-single/settings.php:75, lib/admin/customizer/portfolio-single/popup.php:14, lib/admin/customizer/portfolio-single/popup.php:67, lib/admin/customizer/portfolio-single/settings.php:41
+msgid "Navigation"
+msgstr ""
+
+#: lib/render/menu.php:33, lib/templates/fragments/breadcrumb.php:48, lib/admin/control-panel/views/layout/sidebar.php:6
+msgid "Home"
+msgstr ""
+
+#: lib/render/menu.php:52
+msgid "Primary Menu"
+msgstr ""
+
+#: lib/render/menu.php:53, lib/admin/customizer/footer/popup.php:19, lib/admin/customizer/footer/popup.php:103
+msgid "Sub Footer Menu"
+msgstr ""
+
+#: lib/render/walker.php:414
+msgid "Add a menu"
+msgstr ""
+
+#: lib/render/widget-area.php:21, lib/admin/custom-fields/post-types/options/main.php:94
+msgid "Sidebar Primary"
+msgstr ""
+
+#: lib/render/widget-area.php:26, lib/admin/custom-fields/post-types/options/main.php:115
+msgid "Sidebar Secondary"
+msgstr ""
+
+#: lib/render/widget-area.php:32
+msgid "Off-Canvas Menu"
+msgstr ""
+
+#: lib/render/widget-area.php:42
+msgstr ""
+
+#: lib/admin/core-install/core-install.php:48, lib/admin/core-install/core-install.php:80
+msgid "Activate Jupiter X Core Plugin"
+msgstr ""
+
+#: lib/admin/core-install/core-install.php:49
+msgid "Installing plugin..."
+msgstr ""
+
+#: lib/admin/core-install/core-install.php:50
+msgid "Activating plugin..."
+msgstr ""
+
+#: lib/admin/core-install/core-install.php:51
+msgid "Plugin activation completed."
+msgstr ""
+
+#: lib/admin/core-install/core-install.php:52
+msgid "There was an issue during the activation process."
+msgstr ""
+
+#: lib/admin/core-install/core-install.php:73, lib/admin/setup-wizard/setup-wizard.php:228, lib/admin/update-plugins/update-plugins.php:99
+msgid "Jupiter X"
+msgstr ""
+
+#: lib/admin/core-install/core-install.php:76
+msgid "Almost done! 👋"
+msgstr ""
+
+#: lib/admin/core-install/core-install.php:77
+msgid "To complete the installation and unlock more features, we highly recommend to activate Jupiter X Core plugin."
+msgstr ""
+
+#: lib/admin/core-install/core-install.php:129, lib/admin/control-panel/classes/class-filesystem.php:107, lib/admin/control-panel/includes/install-plugin.php:246
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#: lib/admin/custom-fields/taxonomy.php:52, lib/admin/custom-fields/taxonomy.php:86, lib/admin/customizer/footer/settings.php:108, lib/admin/customizer/product-page/settings.php:191, lib/admin/customizer/sidebar/settings.php:17, lib/admin/customizer/sidebar/settings.php:75, lib/admin/custom-fields/post-types/options/main.php:52
+msgid "Layout"
+msgstr ""
+
+#: lib/admin/custom-fields/taxonomy.php:57, lib/admin/custom-fields/taxonomy.php:91, lib/api/custom-fields/field-types/widget-area.php:87, lib/admin/custom-fields/post-types/options/footer.php:51, lib/admin/custom-fields/post-types/options/footer.php:75, lib/admin/custom-fields/post-types/options/footer.php:112, lib/admin/custom-fields/post-types/options/footer.php:142, lib/admin/custom-fields/post-types/options/footer.php:185, lib/admin/custom-fields/post-types/options/header.php:51, lib/admin/custom-fields/post-types/options/header.php:76, lib/admin/custom-fields/post-types/options/header.php:105, lib/admin/custom-fields/post-types/options/header.php:136, lib/admin/custom-fields/post-types/options/header.php:188, lib/admin/custom-fields/post-types/options/header.php:223, lib/admin/custom-fields/post-types/options/main.php:57, lib/admin/custom-fields/post-types/options/main.php:169, lib/admin/custom-fields/post-types/options/main.php:187, lib/admin/custom-fields/post-types/options/main.php:206, lib/admin/custom-fields/post-types/options/main.php:225, lib/admin/custom-fields/post-types/options/main.php:244, lib/admin/custom-fields/post-types/options/main.php:263, lib/admin/custom-fields/post-types/options/main.php:281, lib/admin/custom-fields/post-types/options/main.php:336, lib/admin/custom-fields/post-types/options/main.php:358, lib/admin/custom-fields/post-types/options/main.php:375, lib/admin/custom-fields/post-types/options/main.php:390, lib/admin/custom-fields/post-types/options/title-bar.php:30, lib/admin/custom-fields/post-types/options/title-bar.php:46
+msgid "Global"
+msgstr ""
+
+#: lib/admin/custom-fields/taxonomy.php:64
+msgid "Thumbnail"
+msgstr ""
+
+#: lib/admin/custom-fields/user.php:12
+msgid "Social Networks"
+msgstr ""
+
+#: lib/admin/custom-fields/user.php:28, lib/templates/fragments/post-shortcodes.php:326
+msgid "Email"
+msgstr ""
+
+#: lib/admin/custom-fields/user.php:31
+msgid "Show Email icon"
+msgstr ""
+
+#: lib/admin/custom-fields/user.php:39, lib/api/widget/widget-social.php:48, lib/templates/fragments/post-shortcodes.php:284, lib/admin/setup-wizard/views/completed.php:33
+msgid "Facebook"
+msgstr ""
+
+#: lib/admin/custom-fields/user.php:49, lib/api/widget/widget-social.php:72, lib/templates/fragments/post-shortcodes.php:290, lib/admin/setup-wizard/views/completed.php:34
+msgid "Twitter"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:35
+msgid "Jupiter X - Kirki Controls"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:36, lib/admin/customizer/kirki-demo.php:44
+msgid "Contains sections for all kirki controls."
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:43
+msgid "Jupiter X - Customizer Controls"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:52
+msgid "Section Nested"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:57
+msgid "Section Outer"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:66
+msgid "Input Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:72, lib/admin/customizer/kirki-demo.php:1515, lib/admin/customizer/kirki-demo.php:1554, lib/admin/customizer/kirki-demo.php:1593
+msgid "Textarea Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:78, lib/admin/customizer/kirki-demo.php:1863, lib/admin/customizer/kirki-demo.php:1882
+msgid "Select Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:84, lib/admin/customizer/kirki-demo.php:1998
+msgid "Toggle Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:90
+msgid "Choose Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:96
+msgid "Multicheck Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:102
+msgid "Box Model Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:108
+msgid "Color Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:114, lib/admin/customizer/kirki-demo.php:1173
+msgid "Background Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:120
+msgid "Child Popup Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:124, lib/admin/customizer/blog-single/popup.php:34, lib/admin/customizer/checkout-cart/popup.php:16, lib/admin/customizer/footer/popup.php:30, lib/admin/customizer/header/popup.php:28, lib/admin/customizer/portfolio-single/popup.php:26, lib/admin/customizer/product-list/popup.php:18, lib/admin/customizer/product-page/popup.php:18, lib/admin/customizer/sidebar/popup.php:25, lib/admin/customizer/site-settings/popup.php:24, lib/admin/customizer/title-bar/popup.php:24
+msgid "Styles"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:125, lib/admin/customizer/title-bar/settings.php:48, lib/admin/control-panel/views/panes/free-vs-pro.php:34
+msgid "Elements"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:128, lib/admin/customizer/kirki-demo.php:845, lib/admin/customizer/settings.php:13, lib/admin/customizer/sidebar/settings.php:66, lib/admin/customizer/title-bar/settings.php:77
+msgid "Blog"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:129, lib/admin/customizer/kirki-demo.php:846, lib/api/widget/widget-posts.php:40, lib/admin/customizer/search/settings.php:27
+msgid "Post"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:130, lib/admin/customizer/kirki-demo.php:847, lib/admin/customizer/search/settings.php:30, lib/templates/woocommerce/cart/cart.php:29, lib/templates/woocommerce/cart/cart.php:61
+msgid "Product"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:131, lib/admin/customizer/kirki-demo.php:848, lib/admin/customizer/settings.php:19, lib/api/widget/widget-posts.php:41, lib/admin/customizer/search/settings.php:28, lib/admin/customizer/sidebar/settings.php:68, lib/admin/customizer/title-bar/settings.php:79
+msgid "Portfolio"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:132, lib/admin/customizer/kirki-demo.php:849, lib/admin/customizer/sidebar/settings.php:65, lib/admin/customizer/title-bar/settings.php:76
+msgid "Archive"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:133, lib/admin/customizer/kirki-demo.php:862, lib/api/widget/widget-posts.php:34, lib/api/widget/widget-posts.php:125, lib/api/widget/widget-social.php:33, lib/admin/customizer/blog-single/popup.php:12, lib/admin/customizer/blog-single/popup.php:88, lib/admin/customizer/blog-single/settings.php:69, lib/admin/customizer/portfolio-single/popup.php:11, lib/admin/customizer/portfolio-single/popup.php:63, lib/admin/customizer/portfolio-single/settings.php:36, lib/admin/customizer/title-bar/popup.php:11, lib/admin/customizer/title-bar/settings.php:52, lib/admin/customizer/title-bar/settings.php:113, lib/admin/custom-fields/post-types/options/title-bar.php:25
+msgid "Title"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:210, lib/admin/customizer/kirki-demo.php:1141, lib/admin/customizer/typography/popup.php:28
+msgid "Typography"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:216, lib/admin/customizer/kirki-demo.php:1134
+msgid "Radio Image"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:222
+msgid "No Refresh Controls"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:234
+msgid "API Code"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:247
+msgid "Hash Code"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:298
+msgid "Enter font size."
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:300, lib/admin/customizer/kirki-demo.php:313
+msgid "Font Size"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:325
+msgid "All units"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:338
+msgid "1 unit"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:351
+msgid "Google Script"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:365
+msgid "Header Script"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:379
+msgid "Footer Script"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:404
+msgid "Inline Label"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:415, lib/admin/customizer/sidebar/divider.php:18, lib/admin/customizer/sidebar/popup.php:20
+msgid "Sidebar"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:419
+msgid "No Sidebar"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:420
+msgid "Left Sidebar"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:421
+msgid "Right Sidebar"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:434
+msgid "Content Position"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:437, lib/admin/customizer/kirki-demo.php:586, lib/admin/customizer/kirki-demo.php:612, lib/admin/customizer/kirki-demo.php:688, lib/admin/customizer/header/settings.php:169, lib/admin/custom-fields/post-types/options/header.php:189
+msgid "Top"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:438, lib/admin/customizer/kirki-demo.php:589, lib/admin/customizer/kirki-demo.php:616, lib/admin/customizer/kirki-demo.php:649, lib/admin/customizer/kirki-demo.php:689, lib/api/customizer/includes/class-utils.php:151, lib/api/customizer/includes/class-utils.php:152
+msgid "Right"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:439, lib/admin/customizer/kirki-demo.php:592, lib/admin/customizer/kirki-demo.php:620, lib/admin/customizer/kirki-demo.php:690, lib/admin/customizer/header/settings.php:172, lib/admin/custom-fields/post-types/options/header.php:190
+msgid "Bottom"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:440, lib/admin/customizer/kirki-demo.php:595, lib/admin/customizer/kirki-demo.php:624, lib/admin/customizer/kirki-demo.php:641, lib/admin/customizer/kirki-demo.php:691, lib/api/customizer/includes/class-utils.php:151, lib/api/customizer/includes/class-utils.php:152
+msgid "Left"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:453
+msgid "Columns"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:457
+msgid "1 Column"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:458
+msgid "2 Columns"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:459
+msgid "3 Columns"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:460
+msgid "4 Columns"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:472
+msgid "Rows"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:476
+msgid "1 Row"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:477
+msgid "2 Rows"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:478
+msgid "3 Rows"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:479
+msgid "4 Rows"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:491, lib/admin/customizer/kirki-demo.php:539, lib/admin/customizer/site-settings/settings.php:145
+msgid "Scroll Top Button"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:503, lib/admin/customizer/kirki-demo.php:550
+msgid "Boxed Container"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:515, lib/admin/customizer/kirki-demo.php:561
+msgid "Smooth Scroll"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:526, lib/admin/customizer/kirki-demo.php:572
+msgid "Lazy Loading Images"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:582, lib/admin/customizer/kirki-demo.php:608, lib/admin/customizer/kirki-demo.php:681, lib/admin/customizer/header/settings.php:164, lib/admin/customizer/header/shopping-cart.php:26, lib/admin/custom-fields/post-types/options/header.php:169, lib/admin/custom-fields/post-types/options/main.php:330, lib/api/customizer/includes/control/group/class-background.php:78, lib/api/customizer/includes/control/group/class-box-shadow.php:76
+msgid "Position"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:637
+msgid "Text Alignment"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:645, lib/admin/custom-fields/post-types/options/main.php:341
+msgid "Center"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:661
+msgid "Image Ratio"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:664, lib/admin/customizer/footer/settings.php:32, lib/admin/customizer/footer/subfooter-menu.php:106, lib/admin/customizer/footer/widgets-link.php:37, lib/admin/customizer/footer/widgets-link.php:83, lib/admin/customizer/header/settings.php:31, lib/admin/customizer/product-page/settings.php:193, lib/admin/customizer/sidebar/widgets-link.php:37, lib/admin/customizer/sidebar/widgets-link.php:83, lib/api/customizer/includes/control/group/class-typography.php:45, lib/api/customizer/includes/control/group/class-typography.php:67, lib/api/customizer/includes/control/group/class-typography.php:108
+msgid "Default"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:665
+msgid "16:9"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:666
+msgid "3:2"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:667
+msgid "4:3"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:668
+msgid "1:1"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:669
+msgid "3:4"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:670
+msgid "2:3"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:671
+msgid "9:16"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:709
+msgid "Display Product Info"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:712
+msgid "Product Name"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:713
+msgid "Regular Price"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:714
+msgid "Sale Price"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:715, lib/admin/customizer/product-list/settings.php:73
+msgid "Add to Cart Button"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:716, lib/admin/customizer/product-list/settings.php:69, lib/admin/customizer/product-page/settings.php:108
+msgid "Rating"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:726, lib/admin/customizer/kirki-demo.php:1692, lib/admin/customizer/blog-single/tags.php:126, lib/admin/customizer/footer/subfooter-menu.php:76, lib/admin/customizer/footer/widgets-link.php:53, lib/admin/customizer/header/menu.php:95, lib/admin/customizer/header/shopping-cart.php:114, lib/admin/customizer/header/submenu.php:56, lib/admin/customizer/sidebar/widgets-link.php:53, lib/admin/customizer/typography/links.php:54
+msgid "Hover"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:737, lib/admin/customizer/kirki-demo.php:1693, lib/admin/customizer/header/menu.php:139, lib/admin/customizer/header/submenu.php:100, lib/admin/control-panel/views/panes/install-plugins.php:43
+msgid "Active"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:748
+msgid "Passive"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:789
+msgid "Text Color"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:800
+msgid "Border Color"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:914
+msgid "Title Color"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:932
+msgid "Title Typography"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:991
+msgid "Title Spacing"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1015
+msgid "Description Color"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1033
+msgid "Description Typography"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1092
+msgid "Description Spacing"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1113
+msgid "Background"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1114
+msgid "Code"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1115, lib/admin/customizer/kirki-demo.php:1849
+msgid "Checkbox"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1116, lib/admin/customizer/kirki-demo.php:1691, lib/api/customizer/includes/control/group/class-box-shadow.php:90
+msgid "Color"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1117
+msgid "Color Palette"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1118, lib/admin/customizer/footer/settings.php:35, lib/admin/customizer/header/settings.php:34, lib/admin/custom-fields/post-types/options/footer.php:52, lib/admin/custom-fields/post-types/options/header.php:77
+msgid "Custom"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1119
+msgid "Dashicons"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1120, lib/api/widget/widget-posts.php:124, lib/admin/customizer/blog-single/settings.php:70, lib/admin/customizer/portfolio-single/settings.php:37
+msgid "Date"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1121
+msgid "Dimension"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1122
+msgid "Dimensions"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1123
+msgid "Editor"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1124
+msgid "Font-Awesome"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1125
+msgid "Generic"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1126, lib/admin/customizer/product-list/settings.php:68
+msgid "Image"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1127
+msgid "Multicheck"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1128
+msgid "Multicolor"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1129
+msgid "Number"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1130
+msgid "Palette"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1131
+msgid "Preset"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1132
+msgid "Radio"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1132
+msgid "A plain Radio control."
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1133
+msgid "Radio Buttonset"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1133
+msgid "Radio-Buttonset controls are essentially radio controls with some fancy styling to make them look cooler."
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1134
+msgid "Radio-Image controls are essentially radio controls with some fancy styles to use images"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1135
+msgid "Repeater"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1136, lib/admin/control-panel/includes/messages/js-messages-lib.php:107
+msgid "Select"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1137
+msgid "Slider"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1138
+msgid "Sortable"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1139
+msgid "Switch"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1140
+msgid "Toggle"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1174
+msgid "Background conrols are pretty complex! (but useful if properly used)"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1196
+msgid "Code Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1197, lib/admin/customizer/kirki-demo.php:1216, lib/admin/customizer/kirki-demo.php:1505, lib/admin/customizer/kirki-demo.php:1516, lib/admin/customizer/kirki-demo.php:1544, lib/admin/customizer/kirki-demo.php:1555, lib/admin/customizer/kirki-demo.php:1583, lib/admin/customizer/kirki-demo.php:1594, lib/admin/customizer/kirki-demo.php:1963, lib/admin/customizer/kirki-demo.php:1974, lib/admin/customizer/kirki-demo.php:1999
+msgid "Description"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1215
+msgid "Checkbox Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1231
+msgid "Color Control (hex-only)"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1232
+msgid "This is a color control - without alpha channel."
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1242
+msgid "Color Control (with alpha channel)"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1243
+msgid "This is a color control - with alpha channel."
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1256
+msgid "Color Control - hue only."
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1257
+msgid "This is a color control - hue only."
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1271
+msgid "Date Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1272
+msgid "This is a date control."
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1285
+msgid "First Editor Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1286
+msgid "This is an editor control."
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1296
+msgid "Second Editor Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1297
+msgid "This is a 2nd editor control just to check that we do not have issues with multiple instances."
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1299
+msgid "Default Text"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1312, lib/admin/customizer/kirki-demo.php:1327, lib/admin/customizer/kirki-demo.php:1342, lib/admin/customizer/kirki-demo.php:1357, lib/admin/customizer/kirki-demo.php:1372
+msgid "Color-Palette"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1313
+msgid "This is a color-palette control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1328
+msgid "Material Design Colors - all"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1343
+msgid "Material Design Colors - primary"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1358
+msgid "Material Design Colors - red"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1373
+msgid "Material Design Colors - A100"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1393
+msgid "Dashicons Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1394
+msgid "Using a custom array of dashicons"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1413
+msgid "All Dashicons"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1414
+msgid "Showing all dashicons"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1427, lib/admin/customizer/kirki-demo.php:1441, lib/admin/customizer/kirki-demo.php:1455
+msgid "Dimension Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1428, lib/admin/customizer/kirki-demo.php:1442, lib/admin/customizer/kirki-demo.php:1456, lib/admin/customizer/kirki-demo.php:1472, lib/admin/customizer/kirki-demo.php:1491, lib/admin/customizer/kirki-demo.php:1625, lib/admin/customizer/kirki-demo.php:1636, lib/admin/customizer/kirki-demo.php:1650
+msgid "Description Here."
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1471
+msgid "Spacing Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1490
+msgid "Font Awesome Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1504, lib/admin/customizer/kirki-demo.php:1543, lib/admin/customizer/kirki-demo.php:1582
+msgid "Text Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1526, lib/admin/customizer/kirki-demo.php:1565, lib/admin/customizer/kirki-demo.php:1604
+msgid "Custom input Control."
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1527, lib/admin/customizer/kirki-demo.php:1566, lib/admin/customizer/kirki-demo.php:1605
+msgid "The \"generic\" control allows you to add any input type you want. In this case we use type=\"password\" and define custom styles."
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1624
+msgid "Image Control (URL)"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1635
+msgid "Image Control (ID)"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1649
+msgid "Image Control (array)"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1666
+msgid "Multickeck Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1671, lib/admin/customizer/kirki-demo.php:1753, lib/admin/customizer/kirki-demo.php:1774, lib/admin/customizer/kirki-demo.php:1869, lib/admin/customizer/kirki-demo.php:1888, lib/admin/customizer/kirki-demo.php:1928, lib/admin/customizer/kirki-demo.php:1945
+msgid "Option 1"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1672, lib/admin/customizer/kirki-demo.php:1754, lib/admin/customizer/kirki-demo.php:1775, lib/admin/customizer/kirki-demo.php:1870, lib/admin/customizer/kirki-demo.php:1889, lib/admin/customizer/kirki-demo.php:1929, lib/admin/customizer/kirki-demo.php:1946
+msgid "Option 2"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1673, lib/admin/customizer/kirki-demo.php:1755, lib/admin/customizer/kirki-demo.php:1776, lib/admin/customizer/kirki-demo.php:1871, lib/admin/customizer/kirki-demo.php:1890, lib/admin/customizer/kirki-demo.php:1930, lib/admin/customizer/kirki-demo.php:1947
+msgid "Option 3"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1674, lib/admin/customizer/kirki-demo.php:1756, lib/admin/customizer/kirki-demo.php:1872, lib/admin/customizer/kirki-demo.php:1891, lib/admin/customizer/kirki-demo.php:1931, lib/admin/customizer/kirki-demo.php:1948
+msgid "Option 4"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1675, lib/admin/customizer/kirki-demo.php:1757, lib/admin/customizer/kirki-demo.php:1873, lib/admin/customizer/kirki-demo.php:1892, lib/admin/customizer/kirki-demo.php:1932, lib/admin/customizer/kirki-demo.php:1949
+msgid "Option 5"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1687, lib/admin/customizer/kirki-demo.php:1711, lib/admin/customizer/kirki-demo.php:1729
+msgid "Label"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1748
+msgid "Radio Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1749, lib/admin/customizer/kirki-demo.php:1770, lib/admin/customizer/kirki-demo.php:1789, lib/admin/customizer/kirki-demo.php:1808, lib/admin/customizer/kirki-demo.php:1864, lib/admin/customizer/kirki-demo.php:1883, lib/admin/customizer/kirki-demo.php:1905
+msgid "The description here."
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1769
+msgid "Radio-Buttonset Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1788
+msgid "Radio-Image Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1807
+msgid "Repeater Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1812
+msgid "Kirki Site"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1818
+msgid "Kirki Repository"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1827
+msgid "Link Text"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1828
+msgid "This will be the label for your link"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1833
+msgid "Link URL"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1834
+msgid "This will be the link URL"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1839
+msgid "Link Target"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1840
+msgid "This will be the link target"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1843
+msgid "New Window"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1844
+msgid "Same Frame"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1867
+msgid "Select an option"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1904
+msgid "Slider Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1924, lib/admin/customizer/kirki-demo.php:1942
+msgid "This is a sortable control."
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1933, lib/admin/customizer/kirki-demo.php:1950
+msgid "Option 6"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1962
+msgid "Switch Control"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1973
+msgid "Switch Control with custom labels"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1978
+msgid "Enabled"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:1979
+msgid "Disabled"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:2012, lib/admin/customizer/kirki-demo.php:2055
+msgid "Typography Control Label"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:2013, lib/admin/customizer/kirki-demo.php:2056
+msgid "The full set of options."
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:2081
+msgid "Sidebars Select"
+msgstr ""
+
+#: lib/admin/customizer/kirki-demo.php:2082
+msgid "An example of how to implement sidebars selection."
+msgstr ""
+
+#: lib/admin/customizer/settings.php:26, lib/admin/customizer/sidebar/settings.php:70, lib/admin/customizer/title-bar/settings.php:81
+msgid "Shop"
+msgstr ""
+
+#: lib/admin/customizer/settings.php:33
+msgid "Pages"
+msgstr ""
+
+#: lib/admin/setup-wizard/setup-wizard.php:72, lib/admin/setup-wizard/setup-wizard.php:80, lib/api/widget/functions.php:64
+msgid "Hello"
+msgstr ""
+
+#: lib/admin/setup-wizard/setup-wizard.php:73, lib/admin/setup-wizard/setup-wizard.php:82, lib/admin/control-panel/views/layout/sidebar.php:16, lib/admin/control-panel/views/panes/install-plugins.php:38
+msgid "Plugins"
+msgstr ""
+
+#: lib/admin/setup-wizard/setup-wizard.php:74, lib/admin/setup-wizard/setup-wizard.php:83, lib/admin/customizer/404/settings.php:17, lib/admin/customizer/blog-single/settings.php:17, lib/admin/customizer/maintenance/settings.php:36, lib/admin/customizer/product-page/settings.php:17, lib/api/custom-fields/field-types/template.php:28, lib/admin/custom-fields/post-types/options/footer.php:61, lib/admin/custom-fields/post-types/options/header.php:86, lib/admin/custom-fields/post-types/options/main.php:36
+msgid "Template"
+msgstr ""
+
+#: lib/admin/setup-wizard/setup-wizard.php:75, lib/admin/setup-wizard/setup-wizard.php:84, lib/admin/control-panel/includes/messages/js-messages-lib.php:31, lib/admin/control-panel/includes/messages/js-messages-lib.php:60
+msgid "All Done!"
+msgstr ""
+
+#: lib/admin/setup-wizard/setup-wizard.php:81, lib/admin/setup-wizard/views/api-activation.php:20, lib/admin/control-panel/includes/messages/js-messages-lib.php:133
+msgid "Activate"
+msgstr ""
+
+#: lib/admin/setup-wizard/setup-wizard.php:121
+msgid "Jupiter X &rsaquo; Setup Wizard"
+msgstr ""
+
+#: lib/admin/setup-wizard/setup-wizard.php:189
+msgid "Confirm"
+msgstr ""
+
+#: lib/admin/setup-wizard/setup-wizard.php:190, lib/api/customizer/includes/class-templates.php:115, lib/admin/control-panel/includes/messages/js-messages-lib.php:82
+msgid "Cancel"
+msgstr ""
+
+#: lib/admin/setup-wizard/setup-wizard.php:191, lib/admin/control-panel/includes/messages/js-messages-lib.php:167
+msgid "Important Notice"
+msgstr ""
+
+#: lib/admin/setup-wizard/setup-wizard.php:192
+msgid "You are about to install <strong>{template}</strong> template. Installing a new template will remove all current data on your website. Are you sure you want to proceed?"
+msgstr ""
+
+#: lib/admin/setup-wizard/setup-wizard.php:193, lib/admin/control-panel/includes/messages/js-messages-lib.php:41
+msgid "Include Images and Videos?"
+msgstr ""
+
+#. translators: Learn more URL
+#: lib/admin/setup-wizard/setup-wizard.php:196
+msgid "Would you like to import images and videos as preview? <br> Notice that all images are <strong>strictly copyrighted</strong> and you need to acquire the license in case you want to use them on your project. <a href=\"%s\" target=\"_blank\">Learn More</a>"
+msgstr ""
+
+#: lib/admin/setup-wizard/setup-wizard.php:199
+msgid "Do not include"
+msgstr ""
+
+#: lib/admin/setup-wizard/setup-wizard.php:200, lib/admin/control-panel/includes/messages/js-messages-lib.php:49
+msgid "Include"
+msgstr ""
+
+#: lib/admin/setup-wizard/setup-wizard.php:228, lib/admin/control-panel/views/panes/home.php:16
+msgid "This wizard helps you configure your new website quick and easy."
+msgstr ""
+
+#: lib/admin/setup-wizard/setup-wizard.php:230, lib/admin/control-panel/views/panes/home.php:20
+msgid "Run Setup Wizard"
+msgstr ""
+
+#: lib/admin/setup-wizard/setup-wizard.php:231, lib/api/unboarding/functions.php:63, lib/admin/control-panel/includes/messages/js-messages-lib.php:76, lib/admin/control-panel/views/panes/home.php:21
+msgid "Discard"
+msgstr ""
+
+#: lib/admin/setup-wizard/setup-wizard.php:266
+msgid "Jupiter  X"
+msgstr ""
+
+#: lib/admin/setup-wizard/setup-wizard.php:322, lib/admin/setup-wizard/setup-wizard.php:324, lib/admin/control-panel/includes/messages/js-messages-lib.php:35, lib/admin/control-panel/views/panes/export-import.php:47, lib/admin/control-panel/views/panes/export-import.php:65
+msgid "Import"
+msgstr ""
+
+#: lib/admin/setup-wizard/setup-wizard.php:326, lib/admin/control-panel/includes/messages/js-messages-lib.php:34
+msgid "Preview"
+msgstr ""
+
+#: lib/admin/setup-wizard/setup-wizard.php:327
+msgid ".psd"
+msgstr ""
+
+#: lib/admin/update-plugins/update-plugins.php:102
+msgid "Important plugins waiting to be updated! 👋"
+msgstr ""
+
+#: lib/admin/update-plugins/update-plugins.php:104
+msgid "New updates are available for these essential plugins. Jupiter X may not work properly without the latest version of these plugins."
+msgstr ""
+
+#: lib/admin/update-plugins/update-plugins.php:107
+msgid "Start Update"
+msgstr ""
+
+#: lib/api/api/ajax.php:71, lib/api/api/ajax.php:114, lib/admin/setup-wizard/includes/ajax.php:92
+msgid "API key is empty."
+msgstr ""
+
+#: lib/api/api/ajax.php:91, lib/api/api/ajax.php:134, lib/admin/setup-wizard/includes/ajax.php:112, lib/admin/setup-wizard/includes/ajax.php:244
+msgid "Your API key could not be verified."
+msgstr ""
+
+#: lib/api/api/ajax.php:99, lib/api/api/ajax.php:142, lib/admin/control-panel/includes/activate-theme.php:78, lib/admin/setup-wizard/includes/ajax.php:120
+msgid "Your product registration was successful."
+msgstr ""
+
+#: lib/api/api/ajax.php:157, lib/admin/setup-wizard/includes/ajax.php:135
+msgid "Plugins list is empty."
+msgstr ""
+
+#: lib/api/api/ajax.php:174, lib/api/api/ajax.php:183, lib/admin/setup-wizard/includes/ajax.php:152, lib/admin/setup-wizard/includes/ajax.php:161
+msgid "There was an error occur installing the plugin"
+msgstr ""
+
+#: lib/api/api/ajax.php:191, lib/admin/setup-wizard/includes/ajax.php:169
+msgid "Plugins installed successfully."
+msgstr ""
+
+#: lib/api/api/functions.php:70
+msgid "Jupiter X Pro"
+msgstr ""
+
+#: lib/api/elementor/functions-admin.php:94
+msgid "Raven plugin is disabled. Please enable Raven plugin to be able to edit this template."
+msgstr ""
+
+#. translators: Footer credits. Date followed by the name of the website.
+#: lib/api/footer/functions.php:149
+msgid "&#x000A9; %1$s - %2$s. All rights reserved."
+msgstr ""
+
+#: lib/api/header/functions.php:192
+msgid "Select a custom header template."
+msgstr ""
+
+#. translators: The (%s) placeholder is for the "Modify" hyperlink.
+#: lib/api/layout/functions.php:275
+msgid "Use Default Layout (%s)"
+msgstr ""
+
+#: lib/api/layout/functions.php:276
+msgctxt "Default layout"
+msgid "Modify"
+msgstr ""
+
+#: lib/api/menu/menu-icons.php:78
+msgid "Creative Market"
+msgstr ""
+
+#: lib/api/menu/menu-icons.php:82
+msgid "Long Arrow"
+msgstr ""
+
+#: lib/api/menu/menu-icons.php:86
+msgid "Search 1"
+msgstr ""
+
+#: lib/api/menu/menu-icons.php:90
+msgid "Search 2"
+msgstr ""
+
+#: lib/api/menu/menu-icons.php:94
+msgid "Search 3"
+msgstr ""
+
+#: lib/api/menu/menu-icons.php:98
+msgid "Search 4"
+msgstr ""
+
+#: lib/api/menu/menu-icons.php:102
+msgid "Share E-Mail"
+msgstr ""
+
+#: lib/api/menu/menu-icons.php:106
+msgid "Shopping Cart 1"
+msgstr ""
+
+#: lib/api/menu/menu-icons.php:110
+msgid "Shopping Cart 2"
+msgstr ""
+
+#: lib/api/menu/menu-icons.php:114
+msgid "Shopping Cart 3"
+msgstr ""
+
+#: lib/api/menu/menu-icons.php:118
+msgid "Shopping cart 4"
+msgstr ""
+
+#: lib/api/menu/menu-icons.php:122
+msgid "Shopping cart 5"
+msgstr ""
+
+#: lib/api/menu/menu-icons.php:126
+msgid "Shopping cart 6"
+msgstr ""
+
+#: lib/api/menu/menu-icons.php:130
+msgid "Shopping cart 7"
+msgstr ""
+
+#: lib/api/menu/menu-icons.php:134
+msgid "Shopping cart 8"
+msgstr ""
+
+#: lib/api/menu/menu-icons.php:138
+msgid "Shopping cart 9"
+msgstr ""
+
+#: lib/api/menu/menu-icons.php:142
+msgid "Shopping cart 10"
+msgstr ""
+
+#: lib/api/menu/menu-icons.php:146
+msgid "Zillow"
+msgstr ""
+
+#: lib/api/menu/menu-icons.php:150
+msgid "Zomato"
+msgstr ""
+
+#: lib/api/options/class-options.php:54, lib/api/post-meta/class.php:43
+msgid "Undefined"
+msgstr ""
+
+#: lib/api/unboarding/functions.php:49
+msgid "Important Note"
+msgstr ""
+
+#: lib/api/unboarding/functions.php:50
+msgid "It looks like you used Jupiter before."
+msgstr ""
+
+#: lib/api/unboarding/functions.php:51
+msgid "We will support and update Jupiter as before, so you can keep using it safely. But in case you want to upgrade from Jupiter to Jupiter X please keep in mind that some re-adjustments or content recreation might be required."
+msgstr ""
+
+#: lib/api/unboarding/functions.php:52
+msgid "Learn More"
+msgstr ""
+
+#: lib/api/unboarding/functions.php:53
+msgid "Upgrading Jupiter Theme to Version X"
+msgstr ""
+
+#: lib/api/unboarding/functions.php:54
+msgid "Activate Jupiter"
+msgstr ""
+
+#: lib/api/unboarding/functions.php:55
+msgid "This will deactivate Jupiter X theme and activate the Jupiter theme which is already installed. Are you sure you want to do it?"
+msgstr ""
+
+#: lib/api/unboarding/functions.php:56
+msgid "Install and activate Jupiter "
+msgstr ""
+
+#: lib/api/unboarding/functions.php:57
+msgid "Unzip the ThemeForest Downloaded package and locate Jupiter folder. <strong>jupiter-main-package > jupiter</strong>"
+msgstr ""
+
+#: lib/api/unboarding/functions.php:58
+msgid "Upload Jupiter zip file and activate: <strong>Dashboard > Appearance  > Themes</strong>"
+msgstr ""
+
+#: lib/api/unboarding/functions.php:60
+msgid "Take me back to Jupiter"
+msgstr ""
+
+#: lib/api/unboarding/functions.php:61
+msgid "Fresh start with Jupiter X"
+msgstr ""
+
+#: lib/api/unboarding/functions.php:62, lib/admin/control-panel/includes/messages/js-messages-lib.php:104
+msgid "Done"
+msgstr ""
+
+#: lib/api/unboarding/functions.php:64
+msgid "Activate Jupiter 6"
+msgstr ""
+
+#: lib/api/widget/class.php:470, lib/admin/control-panel/includes/messages/js-messages-lib.php:129
+msgid "Add"
+msgstr ""
+
+#: lib/api/widget/widget-nav-menu.php:108, lib/api/customizer/includes/control/group/class-box-shadow.php:52
+msgid "Vertical"
+msgstr ""
+
+#: lib/api/widget/widget-nav-menu.php:109, lib/api/customizer/includes/control/group/class-box-shadow.php:44
+msgid "Horizontal"
+msgstr ""
+
+#: lib/api/widget/widget-nav-menu.php:116
+msgid "Orientation:"
+msgstr ""
+
+#: lib/api/widget/widget-nav-menu.php:149
+msgid "Space between:"
+msgstr ""
+
+#: lib/api/widget/widget-posts.php:28, lib/api/widget/widget-posts.php:136
+msgid "Jupiter X - Posts"
+msgstr ""
+
+#: lib/api/widget/widget-posts.php:29
+msgid "Custom lists of posts."
+msgstr ""
+
+#: lib/api/widget/widget-posts.php:49
+msgid "Recent"
+msgstr ""
+
+#: lib/api/widget/widget-posts.php:50
+msgid "Popular"
+msgstr ""
+
+#: lib/api/widget/widget-posts.php:51
+msgid "Commented"
+msgstr ""
+
+#: lib/api/widget/widget-posts.php:58, lib/api/widget/widget-posts.php:69, lib/admin/customizer/product-list/settings.php:71
+msgid "Category"
+msgstr ""
+
+#: lib/api/widget/widget-posts.php:80
+msgid "Show portfolio title on hover"
+msgstr ""
+
+#: lib/api/widget/widget-posts.php:89
+msgid "Show post date"
+msgstr ""
+
+#: lib/api/widget/widget-posts.php:98
+msgid "Show comment count"
+msgstr ""
+
+#: lib/api/widget/widget-posts.php:107
+msgid "Show thumbnail"
+msgstr ""
+
+#: lib/api/widget/widget-posts.php:116
+msgid "Number of posts to show"
+msgstr ""
+
+#: lib/api/widget/widget-posts.php:122
+msgid "Order by"
+msgstr ""
+
+#: lib/api/widget/widget-posts.php:126
+msgid "Menu order"
+msgstr ""
+
+#: lib/api/widget/widget-posts.php:127
+msgid "Random"
+msgstr ""
+
+#: lib/api/widget/widget-posts.php:317
+msgid " on "
+msgstr ""
+
+#: lib/api/widget/widget-posts.php:437
+msgid "No Comments"
+msgstr ""
+
+#: lib/api/widget/widget-posts.php:439
+msgid " Comments"
+msgstr ""
+
+#: lib/api/widget/widget-posts.php:441
+msgid "1 Comment"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:28, lib/api/widget/widget-social.php:158
+msgid "Jupiter X - Social Networks"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:29
+msgid "Social network icons."
+msgstr ""
+
+#: lib/api/widget/widget-social.php:37
+msgid "Choose social networks"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:41
+msgid "Android"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:42
+msgid "Apple"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:43
+msgid "Behance"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:44
+msgid "Bitbucket"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:45
+msgid "Delicious"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:46, lib/templates/fragments/post-shortcodes.php:320
+msgid "Digg"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:47
+msgid "Dribbble"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:49
+msgid "Flickr"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:50
+msgid "Foursquare"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:51
+msgid "Github"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:52
+msgid "Google Plus"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:53, lib/admin/setup-wizard/views/completed.php:35
+msgid "Instagram"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:54
+msgid "JSFiddle"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:55
+msgid "Linkedin"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:56
+msgid "Medium"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:57, lib/templates/fragments/post-shortcodes.php:296
+msgid "Pinterest"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:58
+msgid "Product Hunt"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:59, lib/templates/fragments/post-shortcodes.php:314
+msgid "Reddit"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:60
+msgid "RSS"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:61
+msgid "Skype"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:62
+msgid "Snapchat"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:63
+msgid "Soundcloud"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:64
+msgid "Spotify"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:65
+msgid "Stack Overflow"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:66
+msgid "Steam"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:67
+msgid "Stumbleupon"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:68
+msgid "Telegram"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:69
+msgid "TripAdvisor"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:70
+msgid "Tumblr"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:71
+msgid "Twitch"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:73
+msgid "Vimeo"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:74
+msgid "VK"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:75
+msgid "Weibo"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:76
+msgid "Weixin"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:77
+msgid "Whatsapp"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:78
+msgid "WordPress"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:79
+msgid "Xing"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:80
+msgid "Yelp"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:81
+msgid "Youtube"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:82
+msgid "500px"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:88
+msgid "Open links in new tab"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:97
+msgid "Icon size"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:104
+msgid "Border radius"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:110
+msgid "Space between icons"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:115
+msgid "Use custom colors"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:120
+msgid "Icon color"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:129
+msgid "Background color"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:138
+msgid "Icon hover color"
+msgstr ""
+
+#: lib/api/widget/widget-social.php:147
+msgid "Background hover color"
+msgstr ""
+
+#: lib/api/woocommerce/functions.php:109
+msgid "Continue Shopping"
+msgstr ""
+
+#: lib/templates/fragments/breadcrumb.php:105
+msgid "Search results for:"
+msgstr ""
+
+#: lib/templates/fragments/breadcrumb.php:108
+msgid "Author Archives:"
+msgstr ""
+
+#: lib/templates/fragments/breadcrumb.php:110
+msgid "Tag Archives:"
+msgstr ""
+
+#: lib/templates/fragments/breadcrumb.php:112
+msgid "Archives:"
+msgstr ""
+
+#: lib/templates/fragments/breadcrumb.php:114, lib/templates/fragments/post.php:129, lib/admin/customizer/404/popup.php:13
+msgid "404"
+msgstr ""
+
+#. translators: Number of comments, one or many.
+#: lib/templates/fragments/comments.php:25
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/templates/fragments/comments.php:98
+msgid "Trackback"
+msgstr ""
+
+#: lib/templates/fragments/comments.php:107
+msgid "Pingback"
+msgstr ""
+
+#: lib/templates/fragments/comments.php:116
+msgid "Awaiting Moderation"
+msgstr ""
+
+#: lib/templates/fragments/comments.php:125
+msgid "Moderator"
+msgstr ""
+
+#. translators: Date of the comment, time of the comment.
+#: lib/templates/fragments/comments.php:154
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: lib/templates/fragments/comments.php:215, lib/api/custom-fields/field-types/template.php:61, lib/admin/control-panel/includes/messages/js-messages-lib.php:118, lib/api/customizer/includes/control/class-template.php:95
+msgid "Edit"
+msgstr ""
+
+#: lib/templates/fragments/comments.php:233
+msgid "Link"
+msgstr ""
+
+#: lib/templates/fragments/comments.php:253
+msgid "No comment yet, add your voice below!"
+msgstr ""
+
+#: lib/templates/fragments/comments.php:269
+msgid "Comments are closed for this article!"
+msgstr ""
+
+#: lib/templates/fragments/comments.php:302, lib/templates/fragments/post.php:638, lib/templates/fragments/post.php:1108
+msgid "Previous"
+msgstr ""
+
+#: lib/templates/fragments/comments.php:313, lib/templates/fragments/post.php:689, lib/templates/fragments/post.php:1203
+msgid "Next"
+msgstr ""
+
+#: lib/templates/fragments/comments.php:377
+msgid "Add a Comment"
+msgstr ""
+
+#: lib/templates/fragments/comments.php:390, lib/templates/fragments/post.php:1303, lib/api/customizer/includes/class-templates.php:119
+msgid "Submit"
+msgstr ""
+
+#: lib/templates/fragments/comments.php:451, lib/templates/fragments/comments.php:462
+msgid "Comment *"
+msgstr ""
+
+#: lib/templates/fragments/comments.php:518, lib/templates/fragments/comments.php:530
+msgid "Name *"
+msgstr ""
+
+#. translators: Whether or not submitting an email address is required.
+#. translators: Email field placeholder
+#: lib/templates/fragments/comments.php:547, lib/templates/fragments/comments.php:561
+msgid "Email %s"
+msgstr ""
+
+#: lib/templates/fragments/comments.php:576, lib/templates/fragments/comments.php:587
+msgid "Website"
+msgstr ""
+
+#. translators: Page number.
+#: lib/templates/fragments/deprecated.php:59
+msgid "Page %s"
+msgstr ""
+
+#: lib/templates/fragments/footer.php:27
+msgid "Select a custom footer template."
+msgstr ""
+
+#: lib/templates/fragments/header.php:401
+msgid "Toggle navigation"
+msgstr ""
+
+#: lib/templates/fragments/menu.php:74
+msgid "Whoops, your site does not have a menu!"
+msgstr ""
+
+#: lib/templates/fragments/post-shortcodes.php:21
+msgid "Posted on "
+msgstr ""
+
+#: lib/templates/fragments/post-shortcodes.php:50
+msgid "By "
+msgstr ""
+
+#: lib/templates/fragments/post-shortcodes.php:127
+msgid "Leave a comment"
+msgstr ""
+
+#: lib/templates/fragments/post-shortcodes.php:129
+msgid "1 comment"
+msgstr ""
+
+#. translators: Number of comments. Plural.
+#: lib/templates/fragments/post-shortcodes.php:134
+msgid "%s comments"
+msgstr ""
+
+#: lib/templates/fragments/post-shortcodes.php:197
+msgid " "
+msgstr ""
+
+#: lib/templates/fragments/post-shortcodes.php:249
+msgid "In "
+msgstr ""
+
+#: lib/templates/fragments/post-shortcodes.php:283
+msgid "Share on Facebook"
+msgstr ""
+
+#: lib/templates/fragments/post-shortcodes.php:289
+msgid "Share on Twitter"
+msgstr ""
+
+#: lib/templates/fragments/post-shortcodes.php:295
+msgid "Share on Pinterest"
+msgstr ""
+
+#: lib/templates/fragments/post-shortcodes.php:301
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: lib/templates/fragments/post-shortcodes.php:302
+msgid "LinkedIn"
+msgstr ""
+
+#: lib/templates/fragments/post-shortcodes.php:307
+msgid "Share on Google+"
+msgstr ""
+
+#: lib/templates/fragments/post-shortcodes.php:308
+msgid "Google+"
+msgstr ""
+
+#: lib/templates/fragments/post-shortcodes.php:313
+msgid "Share on Reddit"
+msgstr ""
+
+#: lib/templates/fragments/post-shortcodes.php:319
+msgid "Share on Digg"
+msgstr ""
+
+#: lib/templates/fragments/post-shortcodes.php:325
+msgid "Share on Email"
+msgstr ""
+
+#: lib/templates/fragments/post.php:108, lib/templates/fragments/search.php:109
+msgid "Search results for: "
+msgstr ""
+
+#: lib/templates/fragments/post.php:515
+msgid "Continue reading"
+msgstr ""
+
+#: lib/templates/fragments/post.php:533
+msgid "Pages:"
+msgstr ""
+
+#: lib/templates/fragments/post.php:925
+msgid "Recommended Posts"
+msgstr ""
+
+#: lib/templates/fragments/post.php:939, lib/admin/customizer/portfolio-single/settings.php:42
+msgid "Related Works"
+msgstr ""
+
+#: lib/templates/fragments/post.php:1228
+msgid "Whoops, no result found!"
+msgstr ""
+
+#: lib/templates/fragments/post.php:1240
+msgid "It looks like nothing was found at this location. Try a new search?"
+msgstr ""
+
+#: lib/templates/fragments/post.php:1270
+msgid "This post is protected. To view it, enter the password below!"
+msgstr ""
+
+#: lib/templates/fragments/post.php:1291
+msgid "Password"
+msgstr ""
+
+#: lib/templates/fragments/product-list.php:77, lib/templates/fragments/product-page.php:109
+msgid "Out of Stock"
+msgstr ""
+
+#: lib/templates/fragments/search.php:73
+msgid "New search"
+msgstr ""
+
+#: lib/templates/fragments/search.php:83
+msgid "If you are not happy with the below results, you may try another search."
+msgstr ""
+
+#. translators: Number of found search posts.
+#: lib/templates/fragments/search.php:116
+msgid "We have found some results with the word you searched."
+msgstr ""
+
+#: lib/templates/fragments/searchform.php:37, lib/admin/customizer/header/popup.php:14, lib/admin/customizer/header/popup.php:77, lib/admin/customizer/header/settings.php:117, lib/admin/customizer/search/popup.php:13, lib/admin/customizer/sidebar/settings.php:69, lib/admin/customizer/title-bar/settings.php:80, lib/admin/setup-wizard/views/templates.php:25, lib/admin/setup-wizard/views/templates.php:42
+msgid "Search"
+msgstr ""
+
+#. translators: Name of the widget area.
+#: lib/templates/fragments/widget.php:192
+msgid "%s does not have any widget assigned!"
+msgstr ""
+
+#: lib/templates/fragments/widget.php:238
+msgid "Read full feed"
+msgstr ""
+
+#: lib/templates/fragments/woocommerce.php:24
+msgid "1"
+msgstr ""
+
+#: lib/templates/fragments/woocommerce.php:25, lib/admin/customizer/header/settings.php:118
+msgid "Cart"
+msgstr ""
+
+#: lib/templates/fragments/woocommerce.php:30
+msgid "2"
+msgstr ""
+
+#: lib/templates/fragments/woocommerce.php:31
+msgid "Delivery & Payment"
+msgstr ""
+
+#: lib/templates/fragments/woocommerce.php:36
+msgid "3"
+msgstr ""
+
+#: lib/templates/fragments/woocommerce.php:37
+msgid "Complete Order"
+msgstr ""
+
+#: lib/templates/fragments/woocommerce.php:118
+msgid "Shopping cart"
+msgstr ""
+
+#: lib/admin/control-panel/classes/class-filesystem.php:161
+msgid "Invalid method for $wp_filesystem object!"
+msgstr ""
+
+#: lib/admin/control-panel/classes/class-filesystem.php:222, lib/admin/control-panel/includes/helpers.php:98
+msgid "Can't create directory %s"
+msgstr ""
+
+#: lib/admin/control-panel/classes/class-filesystem.php:242
+msgid "A directory exists has same name %s"
+msgstr ""
+
+#: lib/admin/control-panel/classes/class-filesystem.php:266
+msgid "File already exists %s"
+msgstr ""
+
+#: lib/admin/control-panel/classes/class-filesystem.php:271
+msgid "Copy source file not exists: %s"
+msgstr ""
+
+#: lib/admin/control-panel/classes/class-filesystem.php:276
+msgid "Copy source file not valid: %s"
+msgstr ""
+
+#: lib/admin/control-panel/classes/class-filesystem.php:281
+msgid "Copy source file not readable: %s"
+msgstr ""
+
+#: lib/admin/control-panel/classes/class-filesystem.php:382
+msgid "Zip source file not exists: %s"
+msgstr ""
+
+#: lib/admin/control-panel/classes/class-filesystem.php:387
+msgid "Zip source file not valid: %s"
+msgstr ""
+
+#: lib/admin/control-panel/classes/class-filesystem.php:392
+msgid "Zip source file not readable: %s"
+msgstr ""
+
+#: lib/admin/control-panel/classes/class-filesystem.php:406
+msgid "Failed to create unzip destination directory: %s"
+msgstr ""
+
+#: lib/admin/control-panel/classes/class-filesystem.php:413
+msgid "Unzip destination is not writable: %s"
+msgstr ""
+
+#: lib/admin/control-panel/classes/class-filesystem.php:427
+msgid "Failed unzipping file: %s"
+msgstr ""
+
+#: lib/admin/control-panel/includes/activate-theme.php:82
+msgid "Your API key could not be verified. "
+msgstr ""
+
+#: lib/admin/control-panel/includes/activate-theme.php:82
+msgid "An error occured"
+msgstr ""
+
+#: lib/admin/control-panel/includes/activate-theme.php:87
+msgid "Your API key has been successfully revoked."
+msgstr ""
+
+#: lib/admin/control-panel/includes/database-backups.php:130
+msgid "Can not create backup db file."
+msgstr ""
+
+#: lib/admin/control-panel/includes/database-backups.php:165
+msgid "Can not create media records backup file."
+msgstr ""
+
+#: lib/admin/control-panel/includes/database-backups.php:204
+msgid "There was an error unzipping the backup file."
+msgstr ""
+
+#: lib/admin/control-panel/includes/database-backups.php:218
+msgid "Invalid backup file."
+msgstr ""
+
+#: lib/admin/control-panel/includes/database-backups.php:225
+msgid "The backup file is not exists or not readable."
+msgstr ""
+
+#: lib/admin/control-panel/includes/database-backups.php:329
+msgid "Media records backup file is not exists or not readable"
+msgstr ""
+
+#: lib/admin/control-panel/includes/downgrade-theme.php:73, lib/admin/control-panel/includes/update-theme.php:292
+msgid "You need to authorize this site in order to get upgrades or support for this theme. %1$sRegsiter Your Theme%2$s."
+msgstr ""
+
+#: lib/admin/control-panel/includes/downgrade-theme.php:135, lib/admin/control-panel/includes/messages/js-messages-lib.php:138
+msgid "Something went wrong!"
+msgstr ""
+
+#: lib/admin/control-panel/includes/export-import-content.php:99, lib/admin/control-panel/includes/settings.php:40, lib/admin/control-panel/includes/system-status.php:40
+msgid "Type param is missing."
+msgstr ""
+
+#: lib/admin/control-panel/includes/export-import-content.php:105
+msgid "Step param is missing."
+msgstr ""
+
+#: lib/admin/control-panel/includes/export-import-content.php:122
+msgid "Attachment ID param is missing."
+msgstr ""
+
+#: lib/admin/control-panel/includes/export-import-content.php:135, lib/admin/control-panel/includes/settings.php:53, lib/admin/control-panel/includes/system-status.php:46
+msgid "Type param (%s) is not valid."
+msgstr ""
+
+#: lib/admin/control-panel/includes/export-import-content.php:174, lib/admin/control-panel/includes/export-import-content.php:713
+msgid "Step param (%s) is not valid."
+msgstr ""
+
+#: lib/admin/control-panel/includes/export-import-content.php:195
+msgid "A problem occurred in cleaning export directory."
+msgstr ""
+
+#: lib/admin/control-panel/includes/export-import-content.php:221
+msgid "A problem occurred in exporting Content."
+msgstr ""
+
+#: lib/admin/control-panel/includes/export-import-content.php:406
+msgid "A problem occurred in exporting widgets."
+msgstr ""
+
+#: lib/admin/control-panel/includes/export-import-content.php:458
+msgid "All settings in Settings are set to default. Uncheck the Settings option or change one setting in Settings then export."
+msgstr ""
+
+#: lib/admin/control-panel/includes/export-import-content.php:462
+msgid "A problem occurred in exporting Settings."
+msgstr ""
+
+#: lib/admin/control-panel/includes/export-import-content.php:759, lib/admin/control-panel/includes/export-import-content.php:919
+msgid "A required file (%s) is missing in the selected zip file."
+msgstr ""
+
+#: lib/admin/control-panel/includes/export-import-content.php:780
+msgid "Error in parsing %s."
+msgstr ""
+
+#: lib/admin/control-panel/includes/export-import-content.php:931
+msgid "A problem occurred in importing Widgets."
+msgstr ""
+
+#: lib/admin/control-panel/includes/export-import-content.php:963
+msgid "%s is missing in the selected zip file."
+msgstr ""
+
+#: lib/admin/control-panel/includes/export-import-content.php:977
+msgid "Error importing settings! Please check that you uploaded (%s) a Settings export file."
+msgstr ""
+
+#: lib/admin/control-panel/includes/export-import-content.php:982
+msgid "Error importing settings! template Please check that you uploaded (%s) a Settings export file."
+msgstr ""
+
+#: lib/admin/control-panel/includes/helpers.php:42
+msgid "Zip file that you are looking for is not exist"
+msgstr ""
+
+#: lib/admin/control-panel/includes/helpers.php:48
+msgid "Unzip destination path not exist"
+msgstr ""
+
+#: lib/admin/control-panel/includes/helpers.php:54
+msgid "Unzip destination is not writable , Please resolve this issue first."
+msgstr ""
+
+#: lib/admin/control-panel/includes/helpers.php:92
+msgid "%s directory is not writable"
+msgstr ""
+
+#: lib/admin/control-panel/includes/helpers.php:123
+msgid "Destination directory is not ready for upload . {%s}"
+msgstr ""
+
+#: lib/admin/control-panel/includes/helpers.php:154
+msgid "Can't write file to {%s}"
+msgstr ""
+
+#: lib/admin/control-panel/includes/helpers.php:285
+msgid "SSL connection error. Code: template-assets-get"
+msgstr ""
+
+#: lib/admin/control-panel/includes/install-plugin.php:188
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: lib/admin/control-panel/includes/install-plugin.php:257
+msgid "Plugin successfully installed."
+msgstr ""
+
+#: lib/admin/control-panel/includes/install-plugin.php:270
+msgid "Sorry, you are not allowed to activate this plugin."
+msgstr ""
+
+#: lib/admin/control-panel/includes/install-plugin.php:281
+msgid "Activated Successfully."
+msgstr ""
+
+#: lib/admin/control-panel/includes/install-plugin.php:293
+msgid "Sorry, you are not allowed to deactivate this plugin."
+msgstr ""
+
+#: lib/admin/control-panel/includes/install-plugin.php:299
+msgid "Dectivated Successfully."
+msgstr ""
+
+#: lib/admin/control-panel/includes/install-plugin.php:457
+msgid "Plugin list is empty"
+msgstr ""
+
+#: lib/admin/control-panel/includes/install-template.php:646
+msgid ""
+"You are using a sub site and you are not allowed to install a new plugin.\n"
+"					Please install required plugins that listed below via your %s Network Admin > Plugins %s or contact your Network Admin.\n"
+"					Required plugins for this template: %s %s %s"
+msgstr ""
+
+#: lib/admin/control-panel/includes/install-template.php:697
+msgid "Data of plugins have imported."
+msgstr ""
+
+#: lib/admin/control-panel/includes/install-template.php:1076
+msgid "Error importing settings! Please check that you uploaded (%s) a settings export file."
+msgstr ""
+
+#: lib/admin/control-panel/includes/install-template.php:1081
+msgid "Error importing settings! template Please check that you uploaded (%s) a settings export file."
+msgstr ""
+
+#: lib/admin/control-panel/includes/settings.php:70
+msgid "Assets flushed successfully."
+msgstr ""
+
+#: lib/admin/control-panel/includes/settings.php:83
+msgid "Fields param is missing."
+msgstr ""
+
+#: lib/admin/control-panel/includes/settings.php:104
+msgid "Settings saved successfully."
+msgstr ""
+
+#: lib/admin/control-panel/includes/system-status.php:69
+msgid "HTTP requests have been blocked by the WP_HTTP_BLOCK_EXTERNAL constant, with no allowed hosts."
+msgstr ""
+
+#: lib/admin/control-panel/includes/system-status.php:75
+msgid "HTTP requests have been blocked by the WP_HTTP_BLOCK_EXTERNAL constant, with some hosts whitelisted: %s."
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options.php:26
+msgid "Post Options"
+msgstr ""
+
+#: lib/admin/customizer/404/popup.php:16, lib/admin/customizer/blog-archive/popup.php:16, lib/admin/customizer/blog-single/popup.php:33, lib/admin/customizer/footer/popup.php:29, lib/admin/customizer/header/popup.php:27, lib/admin/customizer/logo/popup.php:26, lib/admin/customizer/maintenance/popup.php:16, lib/admin/customizer/portfolio-single/popup.php:25, lib/admin/customizer/product-archive/popup.php:16, lib/admin/customizer/product-list/popup.php:16, lib/admin/customizer/product-page/popup.php:16, lib/admin/customizer/search/popup.php:16, lib/admin/customizer/sidebar/popup.php:24, lib/admin/customizer/site-settings/popup.php:23, lib/admin/customizer/title-bar/popup.php:23, lib/admin/control-panel/includes/messages/js-messages-lib.php:101, lib/admin/control-panel/views/layout/sidebar.php:64, lib/admin/control-panel/views/panes/export-import.php:34, lib/admin/control-panel/views/panes/settings.php:7
+msgid "Settings"
+msgstr ""
+
+#: lib/admin/customizer/404/popup.php:21
+msgid "Setting custom template for 404 page"
+msgstr ""
+
+#: lib/admin/customizer/404/settings.php:20, lib/admin/customizer/maintenance/settings.php:39, lib/api/customizer/includes/class-utils.php:84
+msgid "None"
+msgstr ""
+
+#: lib/admin/customizer/blog-archive/popup.php:13
+msgid "Blog Archive"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/avatar.php:18
+msgid "Width"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/featured-image.php:34, lib/admin/customizer/blog-single/featured-image.php:88, lib/admin/customizer/portfolio-single/featured-image.php:28
+msgid "Min Height"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/featured-image.php:61, lib/admin/customizer/blog-single/featured-image.php:118, lib/admin/customizer/portfolio-single/featured-image.php:48
+msgid "Max Height"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/featured-image.php:145
+msgid "Overlay Color"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/meta.php:18, lib/admin/customizer/blog-single/tags.php:18, lib/admin/customizer/blog-single/title.php:18, lib/admin/customizer/footer/widgets-container.php:17, lib/admin/customizer/header/settings.php:46, lib/admin/customizer/portfolio-single/meta.php:18, lib/admin/customizer/portfolio-single/title.php:17, lib/admin/customizer/sidebar/widgets-container.php:33, lib/admin/customizer/title-bar/breadcrumb.php:17, lib/admin/customizer/title-bar/subtitle.php:17, lib/admin/customizer/title-bar/title.php:17
+msgid "Align"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/meta.php:42, lib/admin/customizer/blog-single/popup.php:22
+msgid "Avatar"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/meta.php:78, lib/admin/customizer/portfolio-single/meta.php:55
+msgid "Meta Divider"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/meta.php:104, lib/admin/customizer/portfolio-single/meta.php:74
+msgid "Divider Color"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/meta.php:132, lib/admin/customizer/portfolio-single/meta.php:95, lib/admin/customizer/typography/popup.php:12
+msgid "Links"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/popup.php:11, lib/admin/customizer/blog-single/popup.php:87, lib/admin/customizer/blog-single/settings.php:68, lib/admin/customizer/portfolio-single/popup.php:13, lib/admin/customizer/portfolio-single/popup.php:65, lib/admin/customizer/portfolio-single/settings.php:35, lib/admin/custom-fields/post-types/options/main.php:164
+msgid "Featured Image"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/popup.php:13, lib/admin/customizer/blog-single/popup.php:89, lib/admin/customizer/portfolio-single/popup.php:12, lib/admin/customizer/portfolio-single/popup.php:64, lib/admin/custom-fields/post-types/options/main.php:182
+msgid "Meta"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/popup.php:14, lib/admin/customizer/blog-single/popup.php:90, lib/admin/customizer/blog-single/settings.php:73, lib/admin/customizer/product-page/settings.php:98, lib/admin/custom-fields/post-types/options/main.php:201
+msgid "Tags"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/popup.php:15, lib/admin/customizer/blog-single/popup.php:92, lib/admin/customizer/blog-single/settings.php:74, lib/admin/customizer/portfolio-single/popup.php:15, lib/admin/customizer/portfolio-single/popup.php:71, lib/admin/customizer/portfolio-single/settings.php:40, lib/admin/customizer/product-page/settings.php:102, lib/admin/custom-fields/post-types/options/main.php:220
+msgid "Social Share"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/popup.php:17, lib/admin/customizer/blog-single/popup.php:100, lib/admin/customizer/blog-single/settings.php:76, lib/admin/custom-fields/post-types/options/main.php:239
+msgid "Author Box"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/popup.php:18, lib/admin/customizer/blog-single/popup.php:104, lib/admin/customizer/blog-single/settings.php:77, lib/admin/customizer/portfolio-single/popup.php:16, lib/admin/customizer/portfolio-single/popup.php:75, lib/admin/custom-fields/post-types/options/main.php:258
+msgid "Related Posts"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/popup.php:30
+msgid "Blog Single"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/popup.php:40, lib/admin/customizer/portfolio-single/popup.php:32
+msgid "Display settings for Blog, Shop single pages"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/settings.php:46, lib/admin/customizer/footer/settings.php:231, lib/admin/customizer/header/settings.php:108, lib/admin/customizer/portfolio-single/settings.php:17, lib/admin/customizer/product-list/settings.php:48, lib/admin/customizer/product-page/settings.php:73
+msgid "Display Elements"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/settings.php:71, lib/admin/customizer/portfolio-single/settings.php:38
+msgid "Author"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/settings.php:72, lib/admin/customizer/portfolio-single/settings.php:39, lib/admin/customizer/product-page/settings.php:97
+msgid "Categories"
+msgstr ""
+
+#: lib/admin/customizer/blog-single/settings.php:78, lib/admin/customizer/portfolio-single/settings.php:43, lib/admin/custom-fields/post-types/options/main.php:276
+msgid "Comments"
+msgstr ""
+
+#: lib/admin/customizer/checkout-cart/popup.php:13
+msgid "Checkout & Cart"
+msgstr ""
+
+#: lib/admin/customizer/checkout-cart/popup.php:22
+msgid "Checkout & Cart Pages in Shop Customizer"
+msgstr ""
+
+#: lib/admin/customizer/footer/popup.php:11, lib/admin/customizer/footer/popup.php:76, lib/admin/customizer/sidebar/popup.php:11
+msgid "Widgets Title"
+msgstr ""
+
+#: lib/admin/customizer/footer/popup.php:12, lib/admin/customizer/footer/popup.php:77, lib/admin/customizer/sidebar/popup.php:12
+msgid "Widgets Text"
+msgstr ""
+
+#: lib/admin/customizer/footer/popup.php:13, lib/admin/customizer/footer/popup.php:78, lib/admin/customizer/sidebar/popup.php:13
+msgid "Widgets Link"
+msgstr ""
+
+#: lib/admin/customizer/footer/popup.php:14, lib/admin/customizer/footer/popup.php:79
+msgid "Widgets Thumbnail"
+msgstr ""
+
+#: lib/admin/customizer/footer/popup.php:15, lib/admin/customizer/footer/popup.php:80, lib/admin/customizer/sidebar/popup.php:14
+msgid "Widgets Container"
+msgstr ""
+
+#: lib/admin/customizer/footer/popup.php:16, lib/admin/customizer/footer/popup.php:81
+msgid "Widgets Divider"
+msgstr ""
+
+#: lib/admin/customizer/footer/popup.php:17, lib/admin/customizer/footer/popup.php:82
+msgid "Widget Area Container"
+msgstr ""
+
+#: lib/admin/customizer/footer/popup.php:18, lib/admin/customizer/footer/popup.php:102
+msgid "Sub Footer Copyright"
+msgstr ""
+
+#: lib/admin/customizer/footer/popup.php:20, lib/admin/customizer/footer/popup.php:121
+msgid "Sub Footer Container"
+msgstr ""
+
+#: lib/admin/customizer/footer/popup.php:25, lib/admin/custom-fields/post-types/options/footer.php:17, lib/admin/custom-fields/post-types/options/footer.php:25
+msgid "Footer"
+msgstr ""
+
+#: lib/admin/customizer/footer/popup.php:35
+msgid "Assigning the Footer Globally"
+msgstr ""
+
+#: lib/admin/customizer/footer/popup.php:64, lib/admin/customizer/footer/settings.php:17, lib/admin/customizer/header/popup.php:62, lib/admin/customizer/header/settings.php:17
+msgid "The following settings may have conflict with Elementor Pro plugin."
+msgstr ""
+
+#: lib/admin/customizer/footer/settings.php:27, lib/admin/customizer/header/settings.php:27, lib/admin/custom-fields/post-types/options/footer.php:37, lib/admin/custom-fields/post-types/options/header.php:62
+msgid "Type"
+msgstr ""
+
+#: lib/admin/customizer/footer/settings.php:46, lib/admin/customizer/header/settings.php:135, lib/admin/custom-fields/post-types/options/footer.php:155, lib/admin/custom-fields/post-types/options/header.php:122
+msgid "Behavior"
+msgstr ""
+
+#: lib/admin/customizer/footer/settings.php:50, lib/admin/customizer/header/settings.php:140, lib/admin/custom-fields/post-types/options/footer.php:186, lib/admin/custom-fields/post-types/options/header.php:137
+msgid "Static"
+msgstr ""
+
+#: lib/admin/customizer/footer/settings.php:51, lib/admin/customizer/header/settings.php:143, lib/admin/custom-fields/post-types/options/footer.php:187, lib/admin/custom-fields/post-types/options/header.php:138, lib/admin/custom-fields/post-types/options/main.php:369, lib/api/customizer/includes/control/group/class-background.php:107
+msgid "Fixed"
+msgstr ""
+
+#: lib/admin/customizer/footer/settings.php:67, lib/api/custom-fields/field-types/widget-area.php:34, lib/admin/custom-fields/post-types/options/footer.php:93
+msgid "Widget Area"
+msgstr ""
+
+#: lib/admin/customizer/footer/settings.php:138, lib/admin/customizer/footer/settings.php:246, lib/admin/customizer/header/settings.php:220
+msgid "Enable on Tablet"
+msgstr ""
+
+#: lib/admin/customizer/footer/settings.php:150, lib/admin/customizer/footer/settings.php:258, lib/admin/customizer/header/settings.php:243
+msgid "Enable on Mobile"
+msgstr ""
+
+#: lib/admin/customizer/footer/settings.php:190, lib/admin/custom-fields/post-types/options/footer.php:123
+msgid "Sub Footer"
+msgstr ""
+
+#: lib/admin/customizer/footer/settings.php:234
+msgid "Copyright Text"
+msgstr ""
+
+#: lib/admin/customizer/footer/settings.php:235, lib/admin/customizer/header/popup.php:12, lib/admin/customizer/header/popup.php:75, lib/admin/customizer/header/settings.php:116
+msgid "Menu"
+msgstr ""
+
+#: lib/admin/customizer/footer/subfooter-container.php:36, lib/admin/customizer/footer/widget-area-container.php:55, lib/admin/customizer/footer/widgets-container.php:50, lib/admin/customizer/footer/widgets-thumbnail.php:17, lib/admin/customizer/sidebar/widgets-container.php:51, lib/admin/customizer/site-settings/container.php:48
+msgid "Border"
+msgstr ""
+
+#: lib/admin/customizer/footer/widget-area-container.php:32
+msgid "Column Gap"
+msgstr ""
+
+#: lib/admin/customizer/header/logo.php:18, lib/admin/customizer/header/popup.php:11, lib/admin/customizer/header/popup.php:74, lib/admin/customizer/header/settings.php:115, lib/admin/customizer/logo/popup.php:17, lib/admin/customizer/logo/popup.php:23
+msgid "Logo"
+msgstr ""
+
+#: lib/admin/customizer/header/logo.php:21
+msgid "Primary"
+msgstr ""
+
+#: lib/admin/customizer/header/logo.php:22
+msgid "Secondary"
+msgstr ""
+
+#: lib/admin/customizer/header/logo.php:32, lib/admin/customizer/header/sticky-logo.php:18
+msgid "Max Width"
+msgstr ""
+
+#: lib/admin/customizer/header/popup.php:13, lib/admin/customizer/header/popup.php:76
+msgid "Submenu"
+msgstr ""
+
+#: lib/admin/customizer/header/popup.php:15, lib/admin/customizer/header/popup.php:78
+msgid "Shopping Cart"
+msgstr ""
+
+#: lib/admin/customizer/header/popup.php:16, lib/admin/customizer/header/popup.php:79, lib/admin/customizer/header/submenu.php:173, lib/admin/customizer/site-settings/popup.php:14, lib/admin/customizer/site-settings/popup.php:95, lib/admin/customizer/title-bar/popup.php:14
+msgid "Container"
+msgstr ""
+
+#: lib/admin/customizer/header/popup.php:17, lib/admin/customizer/header/popup.php:98
+msgid "Sticky Container"
+msgstr ""
+
+#: lib/admin/customizer/header/popup.php:18, lib/admin/customizer/header/popup.php:97, lib/admin/customizer/logo/settings.php:35
+msgid "Sticky Logo"
+msgstr ""
+
+#: lib/admin/customizer/header/popup.php:23, lib/admin/custom-fields/post-types/options/header.php:17, lib/admin/custom-fields/post-types/options/header.php:25
+msgid "Header"
+msgstr ""
+
+#: lib/admin/customizer/header/popup.php:33
+msgid "Assigning the Header Globally"
+msgstr ""
+
+#: lib/admin/customizer/header/settings.php:75, lib/admin/custom-fields/post-types/options/header.php:37
+msgid "Overlap Content"
+msgstr ""
+
+#: lib/admin/customizer/header/settings.php:146, lib/admin/custom-fields/post-types/options/header.php:139
+msgid "Sticky"
+msgstr ""
+
+#: lib/admin/customizer/header/settings.php:195, lib/admin/custom-fields/post-types/options/header.php:148
+msgid "Offset"
+msgstr ""
+
+#: lib/admin/customizer/header/shopping-cart.php:17
+msgid "Cart Quick View"
+msgstr ""
+
+#: lib/admin/customizer/header/submenu.php:15
+msgid "Items"
+msgstr ""
+
+#: lib/admin/customizer/logo/popup.php:16
+msgid "Site Logo"
+msgstr ""
+
+#: lib/admin/customizer/logo/popup.php:31
+msgid "Adding Multiple versions of logo to website"
+msgstr ""
+
+#: lib/admin/customizer/logo/settings.php:17
+msgid "Primary Logo"
+msgstr ""
+
+#: lib/admin/customizer/logo/settings.php:26
+msgid "Secondary Logo"
+msgstr ""
+
+#: lib/admin/customizer/logo/settings.php:44
+msgid "Retina Primary Logo"
+msgstr ""
+
+#: lib/admin/customizer/logo/settings.php:53
+msgid "Retina Secondary Logo"
+msgstr ""
+
+#: lib/admin/customizer/logo/settings.php:62
+msgid "Retina Sticky Logo"
+msgstr ""
+
+#: lib/admin/customizer/logo/settings.php:71
+msgid "Mobile Logo"
+msgstr ""
+
+#: lib/admin/customizer/logo/settings.php:81
+msgid "Retina Mobile Logo"
+msgstr ""
+
+#: lib/admin/customizer/maintenance/popup.php:13, lib/admin/customizer/maintenance/settings.php:26
+msgid "Maintenance"
+msgstr ""
+
+#: lib/admin/customizer/maintenance/popup.php:21
+msgid "Enabling Maintenance Mode in Jupiter X"
+msgstr ""
+
+#: lib/admin/customizer/maintenance/settings.php:17
+msgid "Maintenance page will be displayed to guests only."
+msgstr ""
+
+#: lib/admin/customizer/portfolio-single/popup.php:22
+msgid "Portfolio Single"
+msgstr ""
+
+#: lib/admin/customizer/pro/popup.php:14
+msgid "Unlock to Jupiter X Pro"
+msgstr ""
+
+#: lib/admin/customizer/product-archive/popup.php:13
+msgid "Product Archive"
+msgstr ""
+
+#: lib/admin/customizer/product-archive/popup.php:21
+msgid "Product Archive in Shop Customizer"
+msgstr ""
+
+#: lib/admin/customizer/product-list/popup.php:13
+msgid "Product List"
+msgstr ""
+
+#: lib/admin/customizer/product-list/popup.php:25
+msgid "Product List in Shop Customizer"
+msgstr ""
+
+#: lib/admin/customizer/product-list/settings.php:17, lib/admin/customizer/title-bar/settings.php:27, lib/admin/customizer/title-bar/settings.php:92
+msgid "Title HTML Tag"
+msgstr ""
+
+#: lib/admin/customizer/product-list/settings.php:38
+msgid "Pagination"
+msgstr ""
+
+#: lib/admin/customizer/product-list/settings.php:70, lib/admin/control-panel/includes/messages/js-messages-lib.php:119, lib/admin/control-panel/views/panes/system-status.php:305
+msgid "Name"
+msgstr ""
+
+#: lib/admin/customizer/product-list/settings.php:72, lib/templates/woocommerce/cart/cart.php:30, lib/templates/woocommerce/cart/cart.php:85
+msgid "Price"
+msgstr ""
+
+#: lib/admin/customizer/product-list/settings.php:74, lib/admin/customizer/product-page/settings.php:106
+msgid "Sale Badge"
+msgstr ""
+
+#: lib/admin/customizer/product-list/settings.php:75, lib/admin/customizer/product-page/settings.php:107
+msgid "Out of Stock Badge"
+msgstr ""
+
+#: lib/admin/customizer/product-list/settings.php:91
+msgid "Grid Settings"
+msgstr ""
+
+#: lib/admin/customizer/product-page/popup.php:13
+msgid "Product Page"
+msgstr ""
+
+#: lib/admin/customizer/product-page/popup.php:25
+msgid "Product Page in Shop Customizer"
+msgstr ""
+
+#: lib/admin/customizer/product-page/settings.php:99
+msgid "SKU"
+msgstr ""
+
+#: lib/admin/customizer/product-page/settings.php:100
+msgid "Short Description"
+msgstr ""
+
+#: lib/admin/customizer/product-page/settings.php:101, lib/templates/woocommerce/cart/cart.php:31, lib/templates/woocommerce/cart/cart.php:91
+msgid "Quantity"
+msgstr ""
+
+#: lib/admin/customizer/product-page/settings.php:103
+msgid "Description Tab"
+msgstr ""
+
+#: lib/admin/customizer/product-page/settings.php:104
+msgid "Review Tab"
+msgstr ""
+
+#: lib/admin/customizer/product-page/settings.php:105
+msgid "Additional Info Tab"
+msgstr ""
+
+#: lib/admin/customizer/product-page/settings.php:117
+msgid "Image Lightbox"
+msgstr ""
+
+#: lib/admin/customizer/product-page/settings.php:127
+msgid "Image Zoom"
+msgstr ""
+
+#: lib/admin/customizer/product-page/settings.php:154
+msgid "Related Products"
+msgstr ""
+
+#: lib/admin/customizer/product-page/settings.php:164
+msgid "Upsells Products"
+msgstr ""
+
+#: lib/admin/customizer/product-page/settings.php:174
+msgid "Sticky Product Info"
+msgstr ""
+
+#: lib/admin/customizer/search/popup.php:21
+msgid "Displaying Search Results from specific Post Types"
+msgstr ""
+
+#: lib/admin/customizer/search/settings.php:17
+msgid "Display section"
+msgstr ""
+
+#: lib/admin/customizer/search/settings.php:29, lib/admin/customizer/sidebar/settings.php:67, lib/admin/customizer/title-bar/settings.php:78
+msgid "Page"
+msgstr ""
+
+#: lib/admin/customizer/search/settings.php:39
+msgid "Posts per page"
+msgstr ""
+
+#: lib/admin/customizer/sidebar/divider.php:54, lib/admin/control-panel/includes/messages/js-messages-lib.php:100, lib/admin/control-panel/views/panes/export-import.php:27
+msgid "Widgets"
+msgstr ""
+
+#: lib/admin/customizer/sidebar/popup.php:15, lib/api/custom-fields/field-types/divider.php:32
+msgid "Divider"
+msgstr ""
+
+#: lib/admin/customizer/sidebar/popup.php:30
+msgid "Adding a Sidebar globally"
+msgstr ""
+
+#: lib/admin/customizer/sidebar/settings.php:30, lib/admin/customizer/sidebar/settings.php:84
+msgid "Primary Sidebar"
+msgstr ""
+
+#: lib/admin/customizer/sidebar/settings.php:41, lib/admin/customizer/sidebar/settings.php:91
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: lib/admin/customizer/sidebar/settings.php:62, lib/admin/customizer/title-bar/settings.php:73
+msgid "Exceptions"
+msgstr ""
+
+#: lib/admin/customizer/site-settings/container.php:17
+msgid "Box Shadow"
+msgstr ""
+
+#: lib/admin/customizer/site-settings/popup.php:11, lib/admin/customizer/site-settings/popup.php:60, lib/admin/customizer/typography/popup.php:11
+msgid "Body"
+msgstr ""
+
+#: lib/admin/customizer/site-settings/popup.php:12, lib/admin/customizer/site-settings/popup.php:61, lib/admin/custom-fields/post-types/options/main.php:22
+msgid "Main"
+msgstr ""
+
+#: lib/admin/customizer/site-settings/popup.php:13, lib/admin/customizer/site-settings/popup.php:72, lib/admin/customizer/site-settings/settings.php:105
+msgid "Body Border"
+msgstr ""
+
+#: lib/admin/customizer/site-settings/popup.php:19
+msgid "Site Settings"
+msgstr ""
+
+#: lib/admin/customizer/site-settings/popup.php:29
+msgid "Setting container width in Jupiter X"
+msgstr ""
+
+#: lib/admin/customizer/site-settings/settings.php:18
+msgid "Site Width"
+msgstr ""
+
+#: lib/admin/customizer/site-settings/settings.php:22
+msgid "Boxed"
+msgstr ""
+
+#: lib/admin/customizer/site-settings/settings.php:32, lib/admin/customizer/site-settings/settings.php:69
+msgid "Container Width"
+msgstr ""
+
+#: lib/admin/customizer/site-settings/settings.php:122
+msgid "Header & Footer On Top of Border"
+msgstr ""
+
+#: lib/admin/customizer/title-bar/breadcrumb.php:53
+msgid "Breadcrumb divider"
+msgstr ""
+
+#: lib/admin/customizer/title-bar/breadcrumb.php:72
+msgid "Divider color"
+msgstr ""
+
+#: lib/admin/customizer/title-bar/breadcrumb.php:96
+msgid "Links color"
+msgstr ""
+
+#: lib/admin/customizer/title-bar/popup.php:12, lib/admin/customizer/title-bar/settings.php:53, lib/admin/customizer/title-bar/settings.php:114, lib/admin/custom-fields/post-types/options/title-bar.php:57
+msgid "Subtitle"
+msgstr ""
+
+#: lib/admin/customizer/title-bar/popup.php:13, lib/admin/customizer/title-bar/settings.php:54, lib/admin/customizer/title-bar/settings.php:115, lib/admin/custom-fields/post-types/options/title-bar.php:41
+msgid "Breadcrumb"
+msgstr ""
+
+#: lib/admin/customizer/title-bar/popup.php:19, lib/admin/custom-fields/post-types/options/title-bar.php:17
+msgid "Title Bar"
+msgstr ""
+
+#: lib/admin/customizer/title-bar/popup.php:29
+msgid "Including/Excluding pages from displaying the Title Bar"
+msgstr ""
+
+#: lib/admin/customizer/title-bar/settings.php:109
+msgid "Content"
+msgstr ""
+
+#: lib/admin/customizer/typography/popup.php:13
+msgid "Heading 1"
+msgstr ""
+
+#: lib/admin/customizer/typography/popup.php:14
+msgid "Heading 2"
+msgstr ""
+
+#: lib/admin/customizer/typography/popup.php:15
+msgid "Heading 3"
+msgstr ""
+
+#: lib/admin/customizer/typography/popup.php:16
+msgid "Heading 4"
+msgstr ""
+
+#: lib/admin/customizer/typography/popup.php:17
+msgid "Heading 5"
+msgstr ""
+
+#: lib/admin/customizer/typography/popup.php:18
+msgid "Heading 6"
+msgstr ""
+
+#: lib/admin/customizer/typography/popup.php:23
+msgid "Fonts & Typography"
+msgstr ""
+
+#: lib/admin/customizer/typography/popup.php:27
+msgid "Fonts"
+msgstr ""
+
+#: lib/admin/customizer/typography/popup.php:33
+msgid "Changing typography for Body, Headings and Links"
+msgstr ""
+
+#: lib/admin/customizer/typography/popup.php:62
+msgid "The following settings may have conflict with Elementor plugin."
+msgstr ""
+
+#: lib/admin/customizer/typography/settings.php:17
+msgid "Please click \"Publish\" and then refresh the page to make selected fonts available in all the typography settings."
+msgstr ""
+
+#: lib/admin/setup-wizard/includes/ajax.php:223
+msgid "Cannot process your request because you have already installed a template."
+msgstr ""
+
+#: lib/admin/setup-wizard/views/api-activation.php:15
+msgid "By activating Jupiter, you will be able to download hundreds of free templates, contact one on one support, install key plugins, get constant updates and much more."
+msgstr ""
+
+#: lib/admin/setup-wizard/views/api-activation.php:26, lib/admin/control-panel/views/panes/home.php:109
+msgid "How to get API key"
+msgstr ""
+
+#: lib/admin/setup-wizard/views/api-activation.php:30, lib/admin/setup-wizard/views/api-activation.php:42, lib/admin/setup-wizard/views/plugins.php:44, lib/admin/setup-wizard/views/templates.php:18, lib/admin/setup-wizard/views/templates.php:58
+msgid "Skip this step"
+msgstr ""
+
+#: lib/admin/setup-wizard/views/api-activation.php:34
+msgid "You have already entered an API key. Please proceed to the next step."
+msgstr ""
+
+#: lib/admin/setup-wizard/views/api-activation.php:38, lib/admin/setup-wizard/views/templates.php:54
+msgid "Continue"
+msgstr ""
+
+#: lib/admin/setup-wizard/views/completed.php:14
+msgid "Your website is all set and ready to go. You can now customise your website and add your content to it. Here are some useful info you may need along the way."
+msgstr ""
+
+#: lib/admin/setup-wizard/views/completed.php:19
+msgid "More Help:"
+msgstr ""
+
+#: lib/admin/setup-wizard/views/completed.php:21
+msgid "How to get started"
+msgstr ""
+
+#: lib/admin/setup-wizard/views/completed.php:22
+msgid "Video tutorials"
+msgstr ""
+
+#: lib/admin/setup-wizard/views/completed.php:23
+msgid "Documentation"
+msgstr ""
+
+#: lib/admin/setup-wizard/views/completed.php:24
+msgid "Elementor icon"
+msgstr ""
+
+#: lib/admin/setup-wizard/views/completed.php:24
+msgid "Get started with Elementor"
+msgstr ""
+
+#: lib/admin/setup-wizard/views/completed.php:26, lib/admin/control-panel/views/panes/free-vs-pro.php:144
+msgid "Support"
+msgstr ""
+
+#: lib/admin/setup-wizard/views/completed.php:31
+msgid "Don't miss an update"
+msgstr ""
+
+#: lib/admin/setup-wizard/views/completed.php:41
+msgid "Customize your website"
+msgstr ""
+
+#: lib/admin/setup-wizard/views/intro.php:14
+msgid "This wizard helps you configure your new website quick and easy. We recommend you to use this wizard If you are new to Jupiter X. If you skip you can still come back anytime from control panel."
+msgstr ""
+
+#: lib/admin/setup-wizard/views/intro.php:17
+msgid "Do it later"
+msgstr ""
+
+#: lib/admin/setup-wizard/views/intro.php:18
+msgid "Configure Jupiter now"
+msgstr ""
+
+#: lib/admin/setup-wizard/views/plugins.php:14
+msgid "This will add essential plugins needed for Jupiter X to work properly."
+msgstr ""
+
+#: lib/admin/setup-wizard/views/plugins.php:15
+msgid "You can add/remove plugins later from control panel."
+msgstr ""
+
+#: lib/admin/setup-wizard/views/plugins.php:40
+msgid "Install Plugins"
+msgstr ""
+
+#: lib/admin/setup-wizard/views/templates.php:15
+msgid "Add dummy pre-built contents to your website. This is the default content for Jupiter X created for you to get started quickly without having to start from scratch."
+msgstr ""
+
+#: lib/admin/setup-wizard/views/templates.php:22
+msgid "Select a template to start with"
+msgstr ""
+
+#: lib/admin/setup-wizard/views/templates.php:28, lib/admin/setup-wizard/views/templates.php:32, lib/api/customizer/includes/class-utils.php:228, lib/admin/control-panel/views/panes/install-templates.php:54
+msgid "All Categories"
+msgstr ""
+
+#: lib/admin/setup-wizard/views/templates.php:50
+msgid "You have already installed a template. Please proceed to the next step."
+msgstr ""
+
+#: lib/api/custom-fields/field-types/template.php:62, lib/api/customizer/includes/control/class-template.php:98
+msgid "New"
+msgstr ""
+
+#: lib/api/custom-fields/field-types/widget-area.php:46
+msgid "Error! Please select a valid widget area."
+msgstr ""
+
+#: lib/api/custom-fields/field-types/widget-area.php:64
+msgid "Default Value"
+msgstr ""
+
+#: lib/api/custom-fields/field-types/widget-area.php:65
+msgid "Enter default widget area slug"
+msgstr ""
+
+#: lib/api/customizer/classes/class-multilingual.php:381
+msgid "Language:"
+msgstr ""
+
+#: lib/api/customizer/classes/class-status.php:47
+msgid "Customizer Settings Name"
+msgstr ""
+
+#: lib/api/customizer/classes/class-status.php:48
+msgid "Control Type"
+msgstr ""
+
+#: lib/api/customizer/includes/class-templates.php:58, lib/admin/control-panel/includes/messages/js-messages-lib.php:103, lib/api/customizer/includes/section/class-popup.php:166, lib/api/customizer/includes/section/class-popup.php:245
+msgid "Close"
+msgstr ""
+
+#: lib/api/customizer/includes/class-templates.php:71, lib/api/customizer/includes/class-templates.php:85
+msgid "The spectate before us was indeed sublime."
+msgstr ""
+
+#: lib/api/customizer/includes/class-templates.php:74, lib/api/customizer/includes/class-templates.php:131, lib/admin/control-panel/includes/messages/js-messages-lib.php:130
+msgid "Remove"
+msgstr ""
+
+#: lib/api/customizer/includes/class-templates.php:87
+msgid "Select a Font Family"
+msgstr ""
+
+#: lib/api/customizer/includes/class-templates.php:103
+msgid "All Fonts"
+msgstr ""
+
+#: lib/api/customizer/includes/class-templates.php:139
+msgid "Back"
+msgstr ""
+
+#: lib/api/customizer/includes/class-templates.php:142
+msgid "Activate Jupiter X to unlock this feature"
+msgstr ""
+
+#: lib/api/customizer/includes/class-templates.php:143, lib/api/customizer/includes/control/class-pro-box.php:99
+msgid "Activate Now"
+msgstr ""
+
+#: lib/api/customizer/includes/class-templates.php:146, lib/admin/control-panel/views/panes/home.php:31, lib/api/customizer/includes/control/class-pro-box.php:96
+msgid "Upgrade to Jupiter X Pro"
+msgstr ""
+
+#: lib/api/customizer/includes/class-utils.php:85
+msgid "Underline"
+msgstr ""
+
+#: lib/api/customizer/includes/class-utils.php:86
+msgid "Overline"
+msgstr ""
+
+#: lib/api/customizer/includes/class-utils.php:87
+msgid "Line Through"
+msgstr ""
+
+#. translators: %d: page ID
+#: lib/api/customizer/includes/class-utils.php:132
+msgid "#%d (no title)"
+msgstr ""
+
+#: lib/api/customizer/includes/class-utils.php:156
+msgid "No sidebar"
+msgstr ""
+
+#. translators: The sidebar position
+#. translators: The sidebar position
+#: lib/api/customizer/includes/class-utils.php:158, lib/api/customizer/includes/class-utils.php:160
+msgid "Single Sidebar %s"
+msgstr ""
+
+#. translators: The sidebar position
+#. translators: The sidebar position
+#: lib/api/customizer/includes/class-utils.php:162, lib/api/customizer/includes/class-utils.php:164
+msgid "Double Sidebar %s"
+msgstr ""
+
+#: lib/api/customizer/includes/class-utils.php:165
+msgid "Opposing Sidebars"
+msgstr ""
+
+#: lib/api/fields/types/checkbox.php:27
+msgid "Enable"
+msgstr ""
+
+#: lib/api/fields/types/image.php:42
+msgid "Add Image"
+msgid_plural "Add Images"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/api/fields/types/image.php:126
+msgid "Sorry, no description was given for this image."
+msgstr ""
+
+#: lib/api/options/views/page.php:26, lib/admin/control-panel/includes/messages/js-messages-lib.php:117
+msgid "Save"
+msgstr ""
+
+#: lib/api/options/views/page.php:27
+msgid "Reset"
+msgstr ""
+
+#: lib/api/options/views/reset-notice-error.php:13
+msgid "Settings could not be reset, please try again."
+msgstr ""
+
+#: lib/api/options/views/reset-notice-success.php:13
+msgid "Settings reset successfully!"
+msgstr ""
+
+#: lib/api/options/views/save-notice-error.php:13
+msgid "Settings could not be saved, please try again."
+msgstr ""
+
+#: lib/api/options/views/save-notice-success.php:13
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: lib/templates/woocommerce/cart/cart.php:32, lib/templates/woocommerce/cart/cart.php:109
+msgid "Total"
+msgstr ""
+
+#: lib/templates/woocommerce/cart/cart.php:54
+msgid "Remove this item"
+msgstr ""
+
+#: lib/templates/woocommerce/cart/cart.php:80
+msgid "Available on backorder"
+msgstr ""
+
+#: lib/templates/woocommerce/cart/cart.php:127
+msgid "Coupon:"
+msgstr ""
+
+#: lib/templates/woocommerce/cart/cart.php:127
+msgid "Coupon code"
+msgstr ""
+
+#: lib/templates/woocommerce/cart/cart.php:127, lib/templates/woocommerce/cart/cart.php:127
+msgid "Apply coupon"
+msgstr ""
+
+#: lib/templates/woocommerce/cart/cart.php:132, lib/templates/woocommerce/cart/cart.php:132
+msgid "Update cart"
+msgstr ""
+
+#: lib/templates/woocommerce/checkout/thankyou.php:30
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: lib/templates/woocommerce/checkout/thankyou.php:33
+msgid "Pay"
+msgstr ""
+
+#: lib/templates/woocommerce/checkout/thankyou.php:35
+msgid "My account"
+msgstr ""
+
+#: lib/templates/woocommerce/checkout/thankyou.php:41, lib/templates/woocommerce/checkout/thankyou.php:83
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: lib/templates/woocommerce/checkout/thankyou.php:46
+msgid "Order number:"
+msgstr ""
+
+#: lib/templates/woocommerce/checkout/thankyou.php:51
+msgid "Date:"
+msgstr ""
+
+#: lib/templates/woocommerce/checkout/thankyou.php:57
+msgid "Email:"
+msgstr ""
+
+#: lib/templates/woocommerce/checkout/thankyou.php:63
+msgid "Total:"
+msgstr ""
+
+#: lib/templates/woocommerce/checkout/thankyou.php:69
+msgid "Payment method:"
+msgstr ""
+
+#: lib/templates/woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr ""
+
+#: lib/templates/woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgstr ""
+
+#: lib/templates/woocommerce/single-product/meta.php:35
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/templates/woocommerce/single-product/meta.php:37
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:151
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:187, lib/admin/control-panel/includes/importer/class-wxr-importer.php:303, lib/admin/control-panel/includes/importer/class-wxr-importer.php:376
+msgid "This WXR file (version %s) is newer than the importer (version %s) and may not be supported. Please consider updating."
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:525
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:585
+msgid "Invalid author mapping"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:686
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:774
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:784
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:869
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:890
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:922, lib/admin/control-panel/includes/importer/class-wxr-importer.php:1756
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:927
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:1071
+msgid "Invalid file type"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:1562
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:1583
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:1587
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:1732
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:1761
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:1814
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:1827
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:1832
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:1838
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:1860
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:1873
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:1878
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:1892
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:1897
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:1923
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:1934
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:1979
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:1984
+msgid "Post %d was imported with object \"%d\" of type \"%s\", but could not be found"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:2006
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:2010
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:2024
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:2028
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: lib/admin/control-panel/includes/importer/class-wxr-importer.php:2045
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:15
+msgid "Theme Updated successfully."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:16
+msgid "Theme update failed. Please try again."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:17
+msgid "Network Active"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:18
+msgid "Agree"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:19
+msgid "Please Note:"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:20
+msgid "Any customisation you have made to theme files will be lost."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:22
+msgid "Restore Settings"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:23
+msgid "Installing a new template will remove all current data on your website. Do you want to proceed?"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:24
+msgid "You are trying to Restore your database to this date: "
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:25, lib/admin/custom-fields/post-types/options/footer.php:113, lib/admin/custom-fields/post-types/options/footer.php:143, lib/admin/custom-fields/post-types/options/header.php:52, lib/admin/custom-fields/post-types/options/main.php:170, lib/admin/custom-fields/post-types/options/main.php:188, lib/admin/custom-fields/post-types/options/main.php:207, lib/admin/custom-fields/post-types/options/main.php:226, lib/admin/custom-fields/post-types/options/main.php:245, lib/admin/custom-fields/post-types/options/main.php:264, lib/admin/custom-fields/post-types/options/main.php:282, lib/admin/custom-fields/post-types/options/main.php:376, lib/admin/custom-fields/post-types/options/main.php:391, lib/admin/custom-fields/post-types/options/title-bar.php:31, lib/admin/custom-fields/post-types/options/title-bar.php:47
+msgid "Yes"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:26
+msgid "Restore"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:27
+msgid "Reload Page"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:28
+msgid "Uninstalling template will remove all you current data and settings. Do you want to proceed?"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:29
+msgid "Yes, uninstall "
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:30
+msgid "Template uninstalled"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:32
+msgid "Template is successfully installed."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:36
+msgid "Downloading package"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:37
+msgid "Backup Database"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:38
+msgid "Install required plugins"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:39
+msgid "Installing in progress..."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:40
+msgid "Installed"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:42
+msgid "Your browser is not supported."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:43
+msgid "Would you like to import images and videos as preview? <br> Notice that all images are <strong>strictly copyrighted</strong> and you need to acquire the license in case you want to use them on your project. {param}"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:44
+msgid "Jupiter X detected that you are using IE or EDGE browser that will prevent you from successfully importing media. Please use other modern browsers. {param}"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:45
+msgid "Insufficient system resource"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:46
+msgid "Your system resource is not enough. Please contact our support or {param} here."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:47
+msgid "Continue without Media"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:48
+msgid "Do not Include"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:50
+msgid "Whoops!"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:51
+msgid "There seems to be an inconsistency in installing procedure. Don't panic though here we've listed some possible solutions for you to get back on track.<br>( Warning number : {param}) {param} "
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:52
+msgid "Error in network , Please check your connection and try again"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:53
+msgid "There was an error connecting to the server, Please verify the settings are correct."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:54, lib/admin/control-panel/views/panes/install-templates.php:31
+msgid "Restore from Last Backup"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:55
+msgid "Restore theme settings to this version"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:56
+msgid "Are you sure?"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:61
+msgid "<strong>{param}</strong> Plugin is successfully installed."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:63
+msgid "Are you sure you want to remove <strong>{param}</strong> Plugin? <br> Note that the plugin files will be removed from your server!"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:68
+msgid "Are you sure you want to remove <strong>{param}</strong> Add-on? <br> Note that all any data regarding this add-on will be lost."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:69
+msgid "<strong>{param}</strong> deactivated successfully."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:71
+msgid "Product registration required!"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:72
+msgid "In order to use this feature you must register your product."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:73
+msgid "Register Product"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:74
+msgid "Registering Jupiter X"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:75
+msgid "Please wait while your API key is being verified."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:77
+msgid "Thanks for Registration!"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:78
+msgid "Oops! Registration was unsuccessful."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:79
+msgid "Revoke API Key"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:80
+msgid "You are about to remove API key from this website?"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:81
+msgid "Ok"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:87
+msgid "Uninstalling Template"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:88
+msgid "Please wait for few moments..."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:89
+msgid "Restoring Database"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:90
+msgid "Remove Image Size"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:91
+msgid "Are you sure you want to remove this image size?"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:92
+msgid "Image sizes could not be stored. Please try again and if issue persists, contact our support."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:93
+msgid "Download PSD files"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:94
+msgid "Exporting"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:95
+msgid "Please wait for the export to finish..."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:96
+msgid "Importing"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:97
+msgid "Please wait for the import to finish..."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:98
+msgid "Please select only the options which exist in the selected ZIP file."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:99, lib/admin/control-panel/views/panes/export-import.php:20
+msgid "Site Content"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:102, lib/admin/control-panel/views/panes/update-theme.php:83
+msgid "Download"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:105
+msgid "Error!"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:106
+msgid "Try again"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:108
+msgid "Select ZIP file"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:109
+msgid "has been finished successfully."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:110
+msgid "If the issue persists, please contact support."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:111
+msgid "Restore database to a backup stored at: "
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:112
+msgid "Add New Image Size"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:113
+msgid "Size Name"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:114
+msgid "Image Width"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:115
+msgid "Image Height"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:116
+msgid "Hard Crop?"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:120
+msgid "Size"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:121
+msgid "Crop"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:122
+msgid "Edit Image Size"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:123
+msgid "Saving Image Sizes"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:124
+msgid "Please wait while the image sizes going to be updated"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:125
+msgid "Required"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:131
+msgid "Delete"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:132
+msgid "Install"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:134
+msgid "Deactivate"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:137
+msgid "Continue "
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:139
+msgid "Something wierd happened , please try again"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:142, lib/admin/control-panel/views/panes/update-theme.php:74
+msgid "Update"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:143
+msgid "Update Plugin"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:144
+msgid "You are about to update <strong>{param}</strong> plugin"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:145
+msgid "Updating Plugin"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:146
+msgid "Please wait while the plugin going to be updated..."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:147
+msgid "Plugin is successfully updated"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:148
+msgid "<strong>{param}</strong> is successfully updated to the most recent version."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:151
+msgid "Install Plugin"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:152
+msgid "You are about to install <strong>{param}</strong> plugin."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:153
+msgid "Are you sure you want to install <strong>{param}</strong>?"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:154
+msgid "Installing Plugin"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:155
+msgid "Please wait while the plugin going to be installed..."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:156
+msgid "Plugin is installed successfully."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:157
+msgid "Latest version of <strong>{param}</strong> is installed successfully."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:160
+msgid "Activating Notice"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:161
+msgid "Are you sure you want to activate <strong>{param}</strong>?"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:162
+msgid "Activating Plugin"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:163
+msgid "Please wait while the plugin going to be activated..."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:164
+msgid "<strong>{param}</strong> Plugin is successfully activated."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:168
+msgid "Are you sure you want to deactivate <strong>{param}</strong> plugin?"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:169
+msgid "Deactivating Plugin"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:170
+msgid "Please wait while the plugin going to be deactivated..."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:171
+msgid "Deactivating Notice"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:172
+msgid "Plugin deactivated successfully"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:175
+msgid "Delete Plugin"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:176
+msgid "You are about to delete <strong>{param}</strong>"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:177
+msgid "Please wait while the plugin going to be deleted..."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:178
+msgid "Plugin is deleted successfully."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:179
+msgid "<strong>{param}</strong> is deleted successfully."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:182
+msgid "Important Notification"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:183
+msgid "Activating too many plugins can cause performance issues to your website. We highly recommend activating only those plugins you really need and deactivate unnecessary ones."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:184, lib/api/customizer/includes/control/class-alert.php:83
+msgid "Learn more"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:187
+msgid "Activate to Unlock"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/js-messages-lib.php:187
+msgid "Upgrade to Unlock"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:36, lib/admin/control-panel/includes/messages/logic-messages-lib.php:44, lib/admin/control-panel/includes/messages/logic-messages-lib.php:48, lib/admin/control-panel/includes/messages/logic-messages-lib.php:52, lib/admin/control-panel/includes/messages/logic-messages-lib.php:56, lib/admin/control-panel/includes/messages/logic-messages-lib.php:60, lib/admin/control-panel/includes/messages/logic-messages-lib.php:159, lib/admin/control-panel/includes/messages/logic-messages-lib.php:163, lib/admin/control-panel/includes/messages/logic-messages-lib.php:167, lib/admin/control-panel/includes/messages/logic-messages-lib.php:171, lib/admin/control-panel/includes/messages/logic-messages-lib.php:175, lib/admin/control-panel/includes/messages/logic-messages-lib.php:179, lib/admin/control-panel/includes/messages/logic-messages-lib.php:183, lib/admin/control-panel/includes/messages/logic-messages-lib.php:187, lib/admin/control-panel/includes/messages/logic-messages-lib.php:191, lib/admin/control-panel/includes/messages/logic-messages-lib.php:195, lib/admin/control-panel/includes/messages/logic-messages-lib.php:199, lib/admin/control-panel/includes/messages/logic-messages-lib.php:207, lib/admin/control-panel/includes/messages/logic-messages-lib.php:211, lib/admin/control-panel/includes/messages/logic-messages-lib.php:215, lib/admin/control-panel/includes/messages/logic-messages-lib.php:219, lib/admin/control-panel/includes/messages/logic-messages-lib.php:223, lib/admin/control-panel/includes/messages/logic-messages-lib.php:227, lib/admin/control-panel/includes/messages/logic-messages-lib.php:231, lib/admin/control-panel/includes/messages/logic-messages-lib.php:235, lib/admin/control-panel/includes/messages/logic-messages-lib.php:239, lib/admin/control-panel/includes/messages/logic-messages-lib.php:243, lib/admin/control-panel/includes/messages/logic-messages-lib.php:247, lib/admin/control-panel/includes/messages/logic-messages-lib.php:251, lib/admin/control-panel/includes/messages/logic-messages-lib.php:255, lib/admin/control-panel/includes/messages/logic-messages-lib.php:259, lib/admin/control-panel/includes/messages/logic-messages-lib.php:263, lib/admin/control-panel/includes/messages/logic-messages-lib.php:267, lib/admin/control-panel/includes/messages/logic-messages-lib.php:271, lib/admin/control-panel/includes/messages/logic-messages-lib.php:275, lib/admin/control-panel/includes/messages/logic-messages-lib.php:279, lib/admin/control-panel/includes/messages/logic-messages-lib.php:283, lib/admin/control-panel/includes/messages/logic-messages-lib.php:287, lib/admin/control-panel/includes/messages/logic-messages-lib.php:291, lib/admin/control-panel/includes/messages/logic-messages-lib.php:295, lib/admin/control-panel/includes/messages/logic-messages-lib.php:299, lib/admin/control-panel/includes/messages/logic-messages-lib.php:303, lib/admin/control-panel/includes/messages/logic-messages-lib.php:307, lib/admin/control-panel/includes/messages/logic-messages-lib.php:311, lib/admin/control-panel/includes/messages/logic-messages-lib.php:315, lib/admin/control-panel/includes/messages/logic-messages-lib.php:319, lib/admin/control-panel/includes/messages/logic-messages-lib.php:323, lib/admin/control-panel/includes/messages/logic-messages-lib.php:327, lib/admin/control-panel/includes/messages/logic-messages-lib.php:331, lib/admin/control-panel/includes/messages/logic-messages-lib.php:335, lib/admin/control-panel/includes/messages/logic-messages-lib.php:339, lib/admin/control-panel/includes/messages/logic-messages-lib.php:343, lib/admin/control-panel/includes/messages/logic-messages-lib.php:347
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:67
+msgid "Whoops! We seem to be having some problems. Please contact Support and supply the number shown and we'll be happy to figure this out for you. (code 200)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:71
+msgid "Whoops! We seem to be having some problems. Please contact Support and supply the number shown and we'll be happy to figure this out for you. (code 201)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:75
+msgid "Your plugin has been successfully added and activated."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:79
+msgid "Whoops! We seem to be having some problems. Please contact Support and supply the number shown and we'll be happy to figure this out for you. (code 202)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:83
+msgid "Congratulations,your operation has been done successfully"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:87
+msgid "Whoops! We seem to be having some problems. Please contact Support and supply the number shown and we'll be happy to figure this out for you. (code 203)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:91
+msgid "Whoops! We seem to be having some problems. Please contact Support and supply the number shown and we'll be happy to figure this out for you. (code 204)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:95
+msgid "Whoops! We seem to be having some problems. Please contact Support and supply the number shown and we'll be happy to figure this out for you. (code 205)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:99
+msgid "Whoops! We seem to be having some problems. Please contact Support and supply the number shown and we'll be happy to figure this out for you. (code 206)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:103
+msgid "Whoops! We seem to be having some problems. Please contact Support and supply the number shown and we'll be happy to figure this out for you. (code 207)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:107
+msgid "Whoops! We seem to be having some problems. Please contact Support and supply the number shown and we'll be happy to figure this out for you. (code 208)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:111
+msgid "Whoops! We seem to be having some problems. Please contact Support and supply the number shown and we'll be happy to figure this out for you. (code 209)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:115
+msgid "To remove your plugin, please deactivate it first and then try again."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:119
+msgid "Whoops! We seem to be having some problems. Please contact Support and supply the number shown and we'll be happy to figure this out for you. (code 210)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:123
+msgid "Your plugin have been successfully updated."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:127
+msgid "Your plugin have been successfully removed."
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:131
+msgid "Whoops! We seem to be having some problems. Please contact Support and supply the number shown and we'll be happy to figure this out for you. (code 211)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:135
+msgid "Whoops! We seem to be having some problems. Please contact Support and supply the number shown and we'll be happy to figure this out for you. (code 212)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:139
+msgid "Whoops! We seem to be having some problems. Please contact Support and supply the number shown and we'll be happy to figure this out for you. (code 213)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:143
+msgid "Whoops! We seem to be having some problems. Please contact Support and supply the number shown and we'll be happy to figure this out for you. (code 214)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:147
+msgid "Whoops! We seem to be having some problems. Please contact Support and supply the number shown and we'll be happy to figure this out for you. (code 215)"
+msgstr ""
+
+#: lib/admin/control-panel/includes/messages/logic-messages-lib.php:151
+msgid "Whoops! We seem to be having some problems. Please contact Support and supply the number shown and we'll be happy to figure this out for you. (code 216)"
+msgstr ""
+
+#: lib/admin/control-panel/views/layout/header.php:10
+msgid "Control Panel"
+msgstr ""
+
+#: lib/admin/control-panel/views/layout/sidebar.php:23, lib/admin/control-panel/views/panes/install-templates.php:49
+msgid "Templates"
+msgstr ""
+
+#: lib/admin/control-panel/views/layout/sidebar.php:30
+msgid "Image Sizes"
+msgstr ""
+
+#: lib/admin/control-panel/views/layout/sidebar.php:37, lib/admin/control-panel/views/panes/system-status.php:10
+msgid "System Status"
+msgstr ""
+
+#: lib/admin/control-panel/views/layout/sidebar.php:44
+msgid "Export/Import"
+msgstr ""
+
+#: lib/admin/control-panel/views/layout/sidebar.php:53, lib/admin/control-panel/views/panes/update-theme.php:18
+msgid "Updates"
+msgstr ""
+
+#: lib/admin/control-panel/views/layout/sidebar.php:55, lib/admin/control-panel/views/panes/update-theme.php:20
+msgid "Changelog"
+msgstr ""
+
+#: lib/admin/control-panel/views/layout/sidebar.php:71
+msgid "Free vs Pro"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/export-import.php:7
+msgid "The Export/Import feature is deprecated. To migrate/backup your website use <a href=\"%s\" target=\"_blank\">3rd-party plugins</a>."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/export-import.php:8, lib/admin/control-panel/views/panes/export-import.php:42
+msgid "Export"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/export-import.php:55
+msgid "Upload"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:14
+msgid "Free"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:15
+msgid "Active now"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:18
+msgid "Pro"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:19
+msgid "Upgrade for $59"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:24
+msgid "Pre-made website templates"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:25
+msgid "10 templates"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:26
+msgid "170+ templates"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:29
+msgid "Content block templates"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:39
+msgid "Advanced shop customisation"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:44
+msgid "Advanced blog"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:49
+msgid "Premium slideshow plugins"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:54
+msgid "Tabbed Content"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:59
+msgid "Visual effects"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:64
+msgid "Custom post types & fields"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:69
+msgid "Popup"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:74
+msgid "AJAX filters"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:79
+msgid "Mega menu"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:84
+msgid "Custom header"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:89
+msgid "Custom footer"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:94
+msgid "Form builder"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:99
+msgid "Adobe fonts (Typekit)"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:104
+msgid "Blog single templates"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:109
+msgid "Blog single customisation"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:110, lib/admin/control-panel/views/panes/free-vs-pro.php:135
+msgid "Modest"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:111, lib/admin/control-panel/views/panes/free-vs-pro.php:136
+msgid "Deep"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:114
+msgid "Product list customisation"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:119
+msgid "Product page customisation"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:124
+msgid "Checkout and Cart pages customisation"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:129
+msgid "Product page templates"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:134
+msgid "Portfolio customisation"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:139
+msgid "Tracking codes"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:145
+msgid "Community support"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:146, lib/admin/control-panel/views/panes/home.php:63
+msgid "Premium support"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:151
+msgid "Upgrade now"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/free-vs-pro.php:152
+msgid "Learn more about Jupiter X Pro"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:32
+msgid "Upgrade Now"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:37
+msgid "Shop customizer"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:41
+msgid "Custom Header and Footer"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:45
+msgid "Blog and Portfolio customizer"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:49
+msgid "Premium plugins"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:55
+msgid "More elementor elements"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:59
+msgid "Block and page templates"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:67
+msgid "150+ pre-made website templates"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:73
+msgid "Premium Slideshows"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:77
+msgid "Adobe fonts"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:81
+msgid "Advanced tracking options"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:85
+msgid "And much more..."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:98
+msgid "Almost Done! Please register Jupiter X to activate its features."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:101
+msgid "By registering Jupiter X you will be able to download hundreds of free templates, contact one on one support, install key plugins, get constant updates and unlock more feature."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:102
+msgid "Learn how>>"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:119
+msgid "is Activated"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:122
+msgid "Deactivate Product"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:123
+msgid "Registering the theme"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:128
+msgid "Learn"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:130
+msgid "Get Started Guide"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:131
+msgid "Learn deeper:"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:133
+msgid "Video Tutorials"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:134
+msgid "Articles"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:137
+msgid "Community Forum"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:138
+msgid "Release History"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:142
+msgid "Start with a Template"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:143
+msgid "Save time by choosing among beautiful templates designed for different sectors and purposes."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/home.php:144
+msgid "Import a Template"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/install-plugins.php:11, lib/admin/control-panel/views/panes/install-templates.php:11
+msgid "Now you are using a sub site which it's plugin functionalities are disabled by Network admin."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/install-plugins.php:12, lib/admin/control-panel/views/panes/install-templates.php:12
+msgid "To have a full control over plugins, please go to My Sites > Network Admin > Settings and check Plugins option of \"Enable administration menus\" option. If you don't have access to the mentioned page, please contact Network Admin."
+msgstr ""
+
+#. translators: 1: plugin file, 2: error message
+#: lib/admin/control-panel/views/panes/install-plugins.php:26
+msgid "The plugin %1$s has been <strong>deactivated</strong> due to an error: %2$s"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/install-plugins.php:39
+msgid "Installing the Bundled Plugins."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/install-plugins.php:42
+msgid "All"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/install-plugins.php:44
+msgid "Inactive"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/install-plugins.php:46
+msgid "Update available"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/install-templates.php:39
+msgid "Installed Template"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/install-templates.php:40, lib/admin/control-panel/views/panes/install-templates.php:50
+msgid "Installing a Template"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/install-templates.php:59
+msgid "Search..."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/settings.php:12
+msgid "Flush Assets Cache"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/settings.php:13
+msgid "Flushing..."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/settings.php:14
+msgid "Clear CSS, Javascript and images cached files. New cached versions will be compiled/created on page load."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/settings.php:18
+msgid "Development Mode"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/settings.php:24
+msgid "This option should be enabled while your website is in development."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/settings.php:27
+msgid "Cache Busting"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/settings.php:33
+msgid "Enable cache busting technique."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/settings.php:40
+msgid "Twitter Consumer Key"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/settings.php:44
+msgid "Twitter Consumer Secret"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/settings.php:48
+msgid "Twitter Access Token"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/settings.php:52
+msgid "Twitter Access Token Secret"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/settings.php:56
+msgid "MailChimp API Key"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/settings.php:60
+msgid "Mailchimp List ID"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/settings.php:64
+msgid "Google Maps API Key"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/settings.php:70
+msgid "Save Settings"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/settings.php:71
+msgid "Saving..."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:11
+msgid "Checking Server Requirements"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:15
+msgid "Get System Report"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:26
+msgid "WordPress Environment"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:33
+msgid "Home URL"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:36
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:43
+msgid "Site URL"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:46
+msgid "The root URL of your site."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:54
+msgid "WP Content URL"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:57
+msgid "The URL of WordPress's content directory."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:65
+msgid "WP Upload Path"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:68
+msgid "The absolute path to WordPress's upload directory."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:76
+msgid "WP Upload URL"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:79
+msgid "The URL of WordPress's upload directory."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:87
+msgid "WP Version"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:90
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:98
+msgid "WP Multisite"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:101
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:113
+msgid "Permalink Structure"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:116
+msgid "The current permalink structure as defined in WordPress Settings->Permalinks."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:125
+msgid "Front Page Display"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:128
+msgid "The current Reading mode of WordPress."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:138
+msgid "Front Page"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:141
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:149
+msgid "Posts Page"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:152
+msgid "The currently selected page in where blog posts are displayed."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:163
+msgid "WP Memory Limit"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:166
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:174
+msgid "Database Table Prefix"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:177
+msgid "The prefix structure of the current WordPress database."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:185
+msgid "WP Debug Mode"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:188
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:200
+msgid "Language"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:203
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:211
+msgid "The Main WP Directory"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:214
+msgid "Check if main WP directory is writable."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:219, lib/admin/control-panel/views/panes/system-status.php:236, lib/admin/control-panel/views/panes/system-status.php:253, lib/admin/control-panel/views/panes/system-status.php:270, lib/admin/control-panel/views/panes/system-status.php:287
+msgid "Writable"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:222, lib/admin/control-panel/views/panes/system-status.php:239, lib/admin/control-panel/views/panes/system-status.php:256, lib/admin/control-panel/views/panes/system-status.php:273, lib/admin/control-panel/views/panes/system-status.php:290
+msgid "Make sure <code>%s</code> directory is writable."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:228
+msgid "The wp-content Directory"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:231
+msgid "Check if wp-content directory is writable."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:245
+msgid "The uploads Directory"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:248
+msgid "Check if uploads directory is writable."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:262
+msgid "The plugins Directory"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:265
+msgid "Check if plugins directory is writable."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:279
+msgid "The themes Directory"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:282
+msgid "Check if themes directory is writable."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:300
+msgid "Theme"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:307
+msgid "The name of the current active theme."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:312
+msgid "Version"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:314
+msgid "The installed version of the current active theme."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:321
+msgid "Author URL"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:323
+msgid "The theme developers URL."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:328
+msgid "Child Theme"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:330
+msgid "Displays whether or not the current theme is a child theme."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:342
+msgid "Parent Theme Name"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:345
+msgid "The name of the parent theme."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:351
+msgid "Parent Theme Version"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:354
+msgid "The installed version of the parent theme."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:360
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:363
+msgid "The parent theme developers URL."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:376
+msgid "Browser"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:383
+msgid "Browser Info"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:386
+msgid "Information about web browser current in use."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:406
+msgid "Server Environment"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:413
+msgid "Server Info"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:416
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:424
+msgid "Localhost Environment"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:427
+msgid "Is the server running in a localhost environment."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:439
+msgid "PHP Version"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:442
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:450
+msgid "ABSPATH"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:453
+msgid "The ABSPATH variable on the server."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:464
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:466, lib/admin/control-panel/views/panes/system-status.php:473
+msgid "The largest filesize that can be contained in one post."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:471
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:478
+msgid "PHP Time Limit"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:480
+msgid "max_execution_time : The amount of time (in seconds) that your site will spend on a single operation before timing out (to avoid server lockups)."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:486
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:488
+msgid "The maximum number of variables your server can use for a single function to avoid overloads."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:497
+msgid "Suhosin Max Request Vars"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:499, lib/admin/control-panel/views/panes/system-status.php:506
+msgid "The maximum number of variables your server running Suhosin can use for a single function to avoid overloads."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:504
+msgid "Suhosin Max Post Vars"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:514
+msgid "PHP Display Errors"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:516
+msgid "Determines if PHP will display errors within the browser."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:530
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:532
+msgid "Suhosin is an advanced protection system for PHP installations. It was designed to protect your servers on the one hand against a number of well known problems in PHP applications and on the other hand against potential unknown vulnerabilities within these applications or the PHP core itself.  If enabled on your server, Suhosin may need to be configured to increase its data submission limits."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:544
+msgid "MySQL Version"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:546
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:551
+msgid "Max Upload Size"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:553
+msgid "The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:559
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:562
+msgid "The default timezone for your server."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:567
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:576
+msgid "PHP XML"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:579
+msgid "Theme requires PHP XML Library to be installed."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:591
+msgid "MBString"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:594
+msgid "Theme requires MBString PHP Library to be installed."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:606
+msgid "SimpleXML"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:609
+msgid "Theme requires SimpleXML PHP Library to be installed."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:622
+msgid "Fsockopen/cURL"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:623
+msgid "Used when communicating with remote services with PHP."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:629
+msgid "Your server does not have fsockopen or cURL enabled - cURL is used to communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:632
+msgid "SoapClient"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:633
+msgid "Some webservices like shipping use SOAP to get information from remote servers, for example, live shipping quotes from FedEx require SOAP to be installed."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:639
+msgid "Your server does not have the <a href=\"%s\">SOAP Client</a> class enabled - some gateway plugins which use SOAP may not work as expected."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:642
+msgid "DOMDocument"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:643
+msgid "HTML/Multipart emails use DOMDocument to generate inline CSS in templates."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:649
+msgid "Your server does not have the <a href=\"%s\">DOMDocument</a> class enabled - HTML/Multipart emails, and also some extensions, will not work without DOMDocument."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:653
+msgid "GZip"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:654
+msgid "GZip (gzopen) is used to open the GEOIP database from MaxMind."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:660
+msgid "Your server does not support the <a href=\"%s\">gzopen</a> function - this is required to use the GeoIP database from MaxMind. The API fallback will be used instead for geolocation."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:664
+msgid "Zip Archive"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:665
+msgid "Used to read or write ZIP compressed archives and the files inside them."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:670
+msgid "ZipArchive library is missing. Install the Zip extension. Contact your hosting provider."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:675
+msgid "Iconv"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:676
+msgid "Used in CSS parser to handle the character set conversion."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:681
+msgid "Iconv library is missing. Install the iconv extension. Contact your hosting provider."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:706
+msgid "HTTP Requests"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:709
+msgid "Check if HTTP requests (get, post and ...) are working properly."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:718
+msgid "Communication with artbees.net"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:721
+msgid "Check if you have proper access to artbees.net server."
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:735
+msgid "Active Plugins"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:747
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/system-status.php:756
+msgctxt "by author"
+msgid "by %s"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/update-theme.php:23
+msgid "Updating Jupiter X theme automatically"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/update-theme.php:27, lib/admin/control-panel/views/panes/update-theme.php:92
+msgid "There are no updates available!"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/update-theme.php:77
+msgid "Downgrade"
+msgstr ""
+
+#: lib/admin/control-panel/views/panes/update-theme.php:85
+msgid "Processing the request..."
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/footer.php:114, lib/admin/custom-fields/post-types/options/footer.php:144, lib/admin/custom-fields/post-types/options/header.php:53, lib/admin/custom-fields/post-types/options/main.php:171, lib/admin/custom-fields/post-types/options/main.php:189, lib/admin/custom-fields/post-types/options/main.php:208, lib/admin/custom-fields/post-types/options/main.php:227, lib/admin/custom-fields/post-types/options/main.php:246, lib/admin/custom-fields/post-types/options/main.php:265, lib/admin/custom-fields/post-types/options/main.php:283, lib/admin/custom-fields/post-types/options/main.php:377, lib/admin/custom-fields/post-types/options/main.php:392, lib/admin/custom-fields/post-types/options/title-bar.php:32, lib/admin/custom-fields/post-types/options/title-bar.php:48
+msgid "No"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/header.php:199
+msgid "Sticky Template"
+msgstr ""
+
+#. translators: field name & Meta box name
+#: lib/admin/custom-fields/post-types/options/main.php:35
+msgid "To have a blank page for page builders, choose a proper <strong>%1$s</strong> from <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:37
+msgid "Post/Page Attributes"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:80
+msgid "Content Spacing"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:309
+msgid "Background Color"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:319
+msgid "Background Image"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:337
+msgid "Top Left"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:338
+msgid "Top Center"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:339
+msgid "Top Right"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:340
+msgid "Center Left"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:342
+msgid "Center Right"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:343
+msgid "Bottom Left"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:344
+msgid "Bottom center"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:345
+msgid "Bottom Right"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:352, lib/admin/custom-fields/post-types/options/main.php:360, lib/api/customizer/includes/control/group/class-background.php:85
+msgid "Repeat"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:359
+msgid "No Repeat"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:361
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:362
+msgid "Repeat Vertically"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:384, lib/api/customizer/includes/control/group/class-background.php:123
+msgid "Cover"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:410
+msgid "Padding Top"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:421
+msgid "Padding Right"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:432
+msgid "Padding Bottom"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:443
+msgid "Padding Left"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:454
+msgid "Margin Top"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:465
+msgid "Margin Right"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:476
+msgid "Margin Bottom"
+msgstr ""
+
+#: lib/admin/custom-fields/post-types/options/main.php:487
+msgid "Margin Left"
+msgstr ""
+
+#: lib/api/customizer/includes/control/class-box-model.php:99
+msgid "Margin"
+msgstr ""
+
+#: lib/api/customizer/includes/control/class-box-model.php:103
+msgid "Padding"
+msgstr ""
+
+#: lib/api/customizer/includes/control/class-child-popup.php:107
+msgid "Customize"
+msgstr ""
+
+#: lib/api/customizer/includes/control/class-exceptions.php:76, lib/api/customizer/includes/control/class-image.php:45
+msgid "Remove image icon"
+msgstr ""
+
+#: lib/api/customizer/includes/control/class-exceptions.php:76
+msgid "Add New Exception"
+msgstr ""
+
+#: lib/api/customizer/includes/control/class-fonts.php:76
+msgid "Add Font Family"
+msgstr ""
+
+#: lib/api/customizer/includes/control/class-image.php:46
+msgid "Upload image icon"
+msgstr ""
+
+#: lib/api/customizer/includes/control/class-image.php:47
+msgid "Click to Upload Image"
+msgstr ""
+
+#: lib/api/customizer/includes/control/class-pro-box.php:63
+msgid "Upgrade to unlock this feature"
+msgstr ""
+
+#: lib/api/customizer/includes/control/class-pro-box.php:66
+msgid "Activate Jupiter X"
+msgstr ""
+
+#: lib/api/customizer/includes/control/class-pro-box.php:74
+msgid "You can unlock more customization options."
+msgstr ""
+
+#: lib/api/customizer/includes/control/class-pro-box.php:77
+msgid "To unlock this feature you must activate Jupiter X"
+msgstr ""
+
+#: lib/api/customizer/includes/control/class-template.php:92
+msgid "OR"
+msgstr ""
+
+#: lib/api/customizer/includes/section/class-link.php:93, lib/api/customizer/includes/section/class-popup.php:143
+msgid "Press return or enter to open this section"
+msgstr ""
+
+#: lib/api/fields/types/views/field-description.php:13
+msgid "More..."
+msgstr ""
+
+#: lib/api/fields/types/views/image.php:47
+msgid "Manage Images"
+msgstr ""
+
+#: lib/api/fields/types/views/image.php:49
+msgid "Edit Image"
+msgstr ""
+
+#: lib/api/fields/types/views/image.php:50
+msgid "Delete Image"
+msgstr ""
+
+#: lib/templates/woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-background.php:43
+msgid "Background Color Type"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-background.php:71
+msgid "BG Image"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-background.php:171, lib/api/customizer/includes/control/group/class-box-shadow.php:80
+msgid "Linear"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-background.php:174
+msgid "Radial"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-background.php:231
+msgid "Social or Self hosted video link"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-background.php:233
+msgid "Video Link"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-background.php:240
+msgid "Video Fallback"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-border.php:48
+msgid "Dashed"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-border.php:49
+msgid "Dotted"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-border.php:50
+msgid "Solid"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-box-shadow.php:60
+msgid "Blur"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-box-shadow.php:68
+msgid "Spread"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-box-shadow.php:83
+msgid "Inset"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-typography.php:110
+msgid "Capitalize"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-typography.php:111
+msgid "Lowercase"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-typography.php:112
+msgid "Uppercase"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-typography.php:163
+msgid "Normal"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-typography.php:164
+msgid "Bold"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-typography.php:165
+msgid "Bolder"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-typography.php:166
+msgid "Lighter"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-typography.php:167
+msgid "100"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-typography.php:168
+msgid "200"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-typography.php:169
+msgid "300"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-typography.php:170
+msgid "400"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-typography.php:171
+msgid "500"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-typography.php:172
+msgid "600"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-typography.php:173
+msgid "700"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-typography.php:174
+msgid "800"
+msgstr ""
+
+#: lib/api/customizer/includes/control/group/class-typography.php:175
+msgid "900"
+msgstr ""

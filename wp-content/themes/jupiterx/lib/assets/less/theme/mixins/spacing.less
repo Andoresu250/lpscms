@@ -1,0 +1,40 @@
+// Spacing
+//
+// Generate margin and padding
+
+.jupiterx-spacing(@var) {
+    margin-top: ~"@{@{var}-margin-top}";
+    margin-right: ~"@{@{var}-margin-right}";
+    margin-bottom: ~"@{@{var}-margin-bottom}";
+    margin-left: ~"@{@{var}-margin-left}";
+    padding-top: ~"@{@{var}-padding-top}";
+    padding-right: ~"@{@{var}-padding-right}";
+    padding-bottom: ~"@{@{var}-padding-bottom}";
+    padding-left: ~"@{@{var}-padding-left}";
+
+    @media @md-down {
+        margin-top: ~"@{@{var}-margin-top-tablet}";
+        margin-right: ~"@{@{var}-margin-right-tablet}";
+        margin-bottom: ~"@{@{var}-margin-bottom-tablet}";
+        margin-left: ~"@{@{var}-margin-left-tablet}";
+        padding-top: ~"@{@{var}-padding-top-tablet}";
+        padding-right: ~"@{@{var}-padding-right-tablet}";
+        padding-bottom: ~"@{@{var}-padding-bottom-tablet}";
+        padding-left: ~"@{@{var}-padding-left-tablet}";
+    }
+
+    @media @sm-down {
+        margin-top: ~"@{@{var}-margin-top-mobile}";
+        margin-right: ~"@{@{var}-margin-right-mobile}";
+        margin-bottom: ~"@{@{var}-margin-bottom-mobile}";
+        margin-left: ~"@{@{var}-margin-left-mobile}";
+        padding-top: ~"@{@{var}-padding-top-mobile}";
+        padding-right: ~"@{@{var}-padding-right-mobile}";
+        padding-bottom: ~"@{@{var}-padding-bottom-mobile}";
+        padding-left: ~"@{@{var}-padding-left-mobile}";
+    }
+}
+
+.ml-auto {
+    margin-left: auto;
+}

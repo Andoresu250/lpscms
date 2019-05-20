@@ -1,0 +1,49 @@
+.jupiterx-wc-steps {
+    display: flex;
+    justify-content: center;
+
+    @media @sm-down {
+        flex-direction: column;
+    }
+}
+
+.jupiterx-wc-step {
+    .jupiterx-spacing('checkout-cart-steps');
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.jupiterx-wc-step-number {
+    padding: .1em;
+    display: inline-block;
+    border-radius: 50%;
+    line-height: 2;
+    text-align: center;
+    background-color: @checkout-cart-steps-number-bg-color;
+    .jupiterx-typography('checkout-cart-steps-number');
+
+    .jupiterx-wc-step-text {
+        width: 2em;
+        height: 2em;
+        display: block;
+    }
+}
+
+.jupiterx-wc-step-title {
+    margin-left: .7em;
+    font-size: @checkout-cart-steps-title-font-size;
+    color: @checkout-cart-steps-title-color;
+    .jupiterx-typography('checkout-cart-steps-title');
+}
+
+.jupiterx-wc-step-active {
+    .jupiterx-wc-step-number {
+        background-color: @checkout-cart-steps-number-bg-color-active;
+        color: @checkout-cart-steps-number-color-active;
+    }
+
+    .jupiterx-wc-step-title {
+        color: @checkout-cart-steps-title-color-active;
+    }
+}
